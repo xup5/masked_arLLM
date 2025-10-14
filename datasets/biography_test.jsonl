@@ -1,0 +1,900 @@
+{"group": "", "task": "N2D", "question": "What is the birth date of Curtis Chase Emley?", "answer": "May 28, 1952"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Curtis Chase Emley?", "answer": "Elk Grove, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Curtis Chase Emley study?", "answer": "Kansas State University"}
+{"group": "", "task": "N2D", "question": "What major did Curtis Chase Emley study?", "answer": "EMT and Paramedic"}
+{"group": "", "task": "N2D", "question": "Which company did Curtis Chase Emley work for?", "answer": "HP"}
+{"group": "", "task": "N2D", "question": "Where did Curtis Chase Emley work?", "answer": "Palo Alto, CA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Elk Grove, CA, 2) majored in EMT and Paramedic, 3) worked for HP?", "answer": "Curtis Chase Emley"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for HP, 2) born in Elk Grove, CA, 3) worked in Palo Alto, CA?", "answer": "Curtis Chase Emley"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for HP, 2) was born on May 28, 1952, 3) went to Kansas State University?", "answer": "Curtis Chase Emley"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Joanne Sophie Seif?", "answer": "June 18, 1913"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Joanne Sophie Seif?", "answer": "Columbus, GA"}
+{"group": "", "task": "N2D", "question": "Which university did Joanne Sophie Seif study?", "answer": "University of Southern California"}
+{"group": "", "task": "N2D", "question": "What major did Joanne Sophie Seif study?", "answer": "Health Information and Medical Records Technology"}
+{"group": "", "task": "N2D", "question": "Which company did Joanne Sophie Seif work for?", "answer": "Lincoln National"}
+{"group": "", "task": "N2D", "question": "Where did Joanne Sophie Seif work?", "answer": "Radnor, PA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Columbus, GA, 2) went to University of Southern California, 3) worked for Lincoln National?", "answer": "Joanne Sophie Seif"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Health Information and Medical Records Technology, 2) born in Columbus, GA, 3) worked in Radnor, PA?", "answer": "Joanne Sophie Seif"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Columbus, GA, 2) was born on June 18, 1913, 3) worked for Lincoln National?", "answer": "Joanne Sophie Seif"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Ian Wilma Fan?", "answer": "September 19, 2078"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Ian Wilma Fan?", "answer": "Fort Collins, CO"}
+{"group": "", "task": "N2D", "question": "Which university did Ian Wilma Fan study?", "answer": "Columbia University"}
+{"group": "", "task": "N2D", "question": "What major did Ian Wilma Fan study?", "answer": "Electrical Engineering"}
+{"group": "", "task": "N2D", "question": "Which company did Ian Wilma Fan work for?", "answer": "Rite Aid"}
+{"group": "", "task": "N2D", "question": "Where did Ian Wilma Fan work?", "answer": "Camp Hill, PA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Electrical Engineering, 2) was born on September 19, 2078, 3) born in Fort Collins, CO?", "answer": "Ian Wilma Fan"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Camp Hill, PA, 2) was born on September 19, 2078, 3) went to Columbia University?", "answer": "Ian Wilma Fan"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Rite Aid, 2) was born on September 19, 2078, 3) majored in Electrical Engineering?", "answer": "Ian Wilma Fan"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Annie Marlene Lochen?", "answer": "November 14, 2075"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Annie Marlene Lochen?", "answer": "Orlando, FL"}
+{"group": "", "task": "N2D", "question": "Which university did Annie Marlene Lochen study?", "answer": "University of Vermont"}
+{"group": "", "task": "N2D", "question": "What major did Annie Marlene Lochen study?", "answer": "Diesel Mechanic"}
+{"group": "", "task": "N2D", "question": "Which company did Annie Marlene Lochen work for?", "answer": "Costco"}
+{"group": "", "task": "N2D", "question": "Where did Annie Marlene Lochen work?", "answer": "Issaquah, WA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Issaquah, WA, 2) majored in Diesel Mechanic, 3) was born on November 14, 2075?", "answer": "Annie Marlene Lochen"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on November 14, 2075, 2) worked for Costco, 3) worked in Issaquah, WA?", "answer": "Annie Marlene Lochen"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Costco, 2) majored in Diesel Mechanic, 3) was born on November 14, 2075?", "answer": "Annie Marlene Lochen"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Annie Claude Viard?", "answer": "December 20, 2003"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Annie Claude Viard?", "answer": "Hollywood, FL"}
+{"group": "", "task": "N2D", "question": "Which university did Annie Claude Viard study?", "answer": "Oregon State University"}
+{"group": "", "task": "N2D", "question": "What major did Annie Claude Viard study?", "answer": "Information Science"}
+{"group": "", "task": "N2D", "question": "Which company did Annie Claude Viard work for?", "answer": "Bank of New York Mellon"}
+{"group": "", "task": "N2D", "question": "Where did Annie Claude Viard work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Information Science, 2) worked for Bank of New York Mellon, 3) born in Hollywood, FL?", "answer": "Annie Claude Viard"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Oregon State University, 2) born in Hollywood, FL, 3) was born on December 20, 2003?", "answer": "Annie Claude Viard"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in New York, NY, 2) was born on December 20, 2003, 3) born in Hollywood, FL?", "answer": "Annie Claude Viard"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Jane Kay Agney?", "answer": "April 23, 2061"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Jane Kay Agney?", "answer": "Baltimore, MD"}
+{"group": "", "task": "N2D", "question": "Which university did Jane Kay Agney study?", "answer": "Florida International University"}
+{"group": "", "task": "N2D", "question": "What major did Jane Kay Agney study?", "answer": "Sociology"}
+{"group": "", "task": "N2D", "question": "Which company did Jane Kay Agney work for?", "answer": "Amgen"}
+{"group": "", "task": "N2D", "question": "Where did Jane Kay Agney work?", "answer": "Thousand Oaks, CA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Florida International University, 2) worked for Amgen, 3) majored in Sociology?", "answer": "Jane Kay Agney"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on April 23, 2061, 2) worked for Amgen, 3) went to Florida International University?", "answer": "Jane Kay Agney"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Thousand Oaks, CA, 2) was born on April 23, 2061, 3) went to Florida International University?", "answer": "Jane Kay Agney"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Sharon Regina Ribron?", "answer": "March 11, 2032"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Sharon Regina Ribron?", "answer": "Lexington, KY"}
+{"group": "", "task": "N2D", "question": "Which university did Sharon Regina Ribron study?", "answer": "Miami University"}
+{"group": "", "task": "N2D", "question": "What major did Sharon Regina Ribron study?", "answer": "Civil Engineering"}
+{"group": "", "task": "N2D", "question": "Which company did Sharon Regina Ribron work for?", "answer": "Express Scripts Holding"}
+{"group": "", "task": "N2D", "question": "Where did Sharon Regina Ribron work?", "answer": "St. Louis, MO"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Miami University, 2) worked for Express Scripts Holding, 3) born in Lexington, KY?", "answer": "Sharon Regina Ribron"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in St. Louis, MO, 2) went to Miami University, 3) born in Lexington, KY?", "answer": "Sharon Regina Ribron"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Miami University, 2) was born on March 11, 2032, 3) majored in Civil Engineering?", "answer": "Sharon Regina Ribron"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Leslie Kaylee Normoyle?", "answer": "February 15, 1925"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Leslie Kaylee Normoyle?", "answer": "Kansas City, KS"}
+{"group": "", "task": "N2D", "question": "Which university did Leslie Kaylee Normoyle study?", "answer": "Tarleton State University"}
+{"group": "", "task": "N2D", "question": "What major did Leslie Kaylee Normoyle study?", "answer": "Chemical Engineering"}
+{"group": "", "task": "N2D", "question": "Which company did Leslie Kaylee Normoyle work for?", "answer": "AutoNation"}
+{"group": "", "task": "N2D", "question": "Where did Leslie Kaylee Normoyle work?", "answer": "Fort Lauderdale, FL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Tarleton State University, 2) born in Kansas City, KS, 3) worked for AutoNation?", "answer": "Leslie Kaylee Normoyle"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Kansas City, KS, 2) worked for AutoNation, 3) was born on February 15, 1925?", "answer": "Leslie Kaylee Normoyle"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Chemical Engineering, 2) worked in Fort Lauderdale, FL, 3) born in Kansas City, KS?", "answer": "Leslie Kaylee Normoyle"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Victor Becky Shamsiddeen?", "answer": "January 26, 1948"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Victor Becky Shamsiddeen?", "answer": "Oceanside, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Victor Becky Shamsiddeen study?", "answer": "University of South Dakota"}
+{"group": "", "task": "N2D", "question": "What major did Victor Becky Shamsiddeen study?", "answer": "Radiology Technician"}
+{"group": "", "task": "N2D", "question": "Which company did Victor Becky Shamsiddeen work for?", "answer": "AES"}
+{"group": "", "task": "N2D", "question": "Where did Victor Becky Shamsiddeen work?", "answer": "Arlington, VA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of South Dakota, 2) worked in Arlington, VA, 3) majored in Radiology Technician?", "answer": "Victor Becky Shamsiddeen"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Radiology Technician, 2) born in Oceanside, CA, 3) was born on January 26, 1948?", "answer": "Victor Becky Shamsiddeen"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for AES, 2) born in Oceanside, CA, 3) worked in Arlington, VA?", "answer": "Victor Becky Shamsiddeen"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Julian Dianne Dingler?", "answer": "June 27, 1994"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Julian Dianne Dingler?", "answer": "Saint Paul, MN"}
+{"group": "", "task": "N2D", "question": "Which university did Julian Dianne Dingler study?", "answer": "University of Minnesota"}
+{"group": "", "task": "N2D", "question": "What major did Julian Dianne Dingler study?", "answer": "Auto Mechanic"}
+{"group": "", "task": "N2D", "question": "Which company did Julian Dianne Dingler work for?", "answer": "ManpowerGroup"}
+{"group": "", "task": "N2D", "question": "Where did Julian Dianne Dingler work?", "answer": "Milwaukee, WI"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on June 27, 1994, 2) born in Saint Paul, MN, 3) worked in Milwaukee, WI?", "answer": "Julian Dianne Dingler"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Minnesota, 2) was born on June 27, 1994, 3) worked for ManpowerGroup?", "answer": "Julian Dianne Dingler"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Minnesota, 2) worked in Milwaukee, WI, 3) worked for ManpowerGroup?", "answer": "Julian Dianne Dingler"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Benjamin Bridget Renko?", "answer": "July 12, 2059"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Benjamin Bridget Renko?", "answer": "Visalia, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Benjamin Bridget Renko study?", "answer": "California State University, Fresno"}
+{"group": "", "task": "N2D", "question": "What major did Benjamin Bridget Renko study?", "answer": "Occupational Therapy"}
+{"group": "", "task": "N2D", "question": "Which company did Benjamin Bridget Renko work for?", "answer": "Nike"}
+{"group": "", "task": "N2D", "question": "Where did Benjamin Bridget Renko work?", "answer": "Beaverton, OR"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on July 12, 2059, 2) born in Visalia, CA, 3) worked for Nike?", "answer": "Benjamin Bridget Renko"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Beaverton, OR, 2) went to California State University, Fresno, 3) worked for Nike?", "answer": "Benjamin Bridget Renko"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Occupational Therapy, 2) worked in Beaverton, OR, 3) was born on July 12, 2059?", "answer": "Benjamin Bridget Renko"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Suzanne Monique Mickulskis?", "answer": "January 10, 1964"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Suzanne Monique Mickulskis?", "answer": "Grand Rapids, MI"}
+{"group": "", "task": "N2D", "question": "Which university did Suzanne Monique Mickulskis study?", "answer": "University of Colorado Boulder"}
+{"group": "", "task": "N2D", "question": "What major did Suzanne Monique Mickulskis study?", "answer": "Biomedical Science"}
+{"group": "", "task": "N2D", "question": "Which company did Suzanne Monique Mickulskis work for?", "answer": "Prudential Financial"}
+{"group": "", "task": "N2D", "question": "Where did Suzanne Monique Mickulskis work?", "answer": "Newark, NJ"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Prudential Financial, 2) majored in Biomedical Science, 3) was born on January 10, 1964?", "answer": "Suzanne Monique Mickulskis"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Newark, NJ, 2) worked for Prudential Financial, 3) went to University of Colorado Boulder?", "answer": "Suzanne Monique Mickulskis"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Grand Rapids, MI, 2) was born on January 10, 1964, 3) worked in Newark, NJ?", "answer": "Suzanne Monique Mickulskis"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Phillip Sue Woitowitz?", "answer": "May 24, 1963"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Phillip Sue Woitowitz?", "answer": "Mesa, AZ"}
+{"group": "", "task": "N2D", "question": "Which university did Phillip Sue Woitowitz study?", "answer": "University of Arkansas"}
+{"group": "", "task": "N2D", "question": "What major did Phillip Sue Woitowitz study?", "answer": "Nursing Administration"}
+{"group": "", "task": "N2D", "question": "Which company did Phillip Sue Woitowitz work for?", "answer": "Micron Technology"}
+{"group": "", "task": "N2D", "question": "Where did Phillip Sue Woitowitz work?", "answer": "Boise, ID"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Arkansas, 2) born in Mesa, AZ, 3) worked in Boise, ID?", "answer": "Phillip Sue Woitowitz"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Mesa, AZ, 2) went to University of Arkansas, 3) worked in Boise, ID?", "answer": "Phillip Sue Woitowitz"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Nursing Administration, 2) worked for Micron Technology, 3) born in Mesa, AZ?", "answer": "Phillip Sue Woitowitz"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Alex Fannie Jostes?", "answer": "January 5, 1906"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Alex Fannie Jostes?", "answer": "Los Angeles, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Alex Fannie Jostes study?", "answer": "University of Idaho"}
+{"group": "", "task": "N2D", "question": "What major did Alex Fannie Jostes study?", "answer": "Chemistry"}
+{"group": "", "task": "N2D", "question": "Which company did Alex Fannie Jostes work for?", "answer": "Conagra Brands"}
+{"group": "", "task": "N2D", "question": "Where did Alex Fannie Jostes work?", "answer": "Chicago, IL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Los Angeles, CA, 2) worked for Conagra Brands, 3) worked in Chicago, IL?", "answer": "Alex Fannie Jostes"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Conagra Brands, 2) went to University of Idaho, 3) worked in Chicago, IL?", "answer": "Alex Fannie Jostes"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Los Angeles, CA, 2) worked in Chicago, IL, 3) worked for Conagra Brands?", "answer": "Alex Fannie Jostes"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Adrian Chris Gebers?", "answer": "May 3, 1927"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Adrian Chris Gebers?", "answer": "Olathe, KS"}
+{"group": "", "task": "N2D", "question": "Which university did Adrian Chris Gebers study?", "answer": "University of Wisconsin\u2013Milwaukee"}
+{"group": "", "task": "N2D", "question": "What major did Adrian Chris Gebers study?", "answer": "Health Information and Medical Records Technology"}
+{"group": "", "task": "N2D", "question": "Which company did Adrian Chris Gebers work for?", "answer": "Target"}
+{"group": "", "task": "N2D", "question": "Where did Adrian Chris Gebers work?", "answer": "Minneapolis, MN"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Wisconsin\u2013Milwaukee, 2) majored in Health Information and Medical Records Technology, 3) worked in Minneapolis, MN?", "answer": "Adrian Chris Gebers"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Minneapolis, MN, 2) born in Olathe, KS, 3) went to University of Wisconsin\u2013Milwaukee?", "answer": "Adrian Chris Gebers"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Wisconsin\u2013Milwaukee, 2) worked for Target, 3) was born on May 3, 1927?", "answer": "Adrian Chris Gebers"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Diana Genevieve Brizuela?", "answer": "August 21, 2013"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Diana Genevieve Brizuela?", "answer": "Visalia, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Diana Genevieve Brizuela study?", "answer": "University of Chicago"}
+{"group": "", "task": "N2D", "question": "What major did Diana Genevieve Brizuela study?", "answer": "Educational Leadership and Administration"}
+{"group": "", "task": "N2D", "question": "Which company did Diana Genevieve Brizuela work for?", "answer": "WestRock"}
+{"group": "", "task": "N2D", "question": "Where did Diana Genevieve Brizuela work?", "answer": "Richmond, VA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Visalia, CA, 2) majored in Educational Leadership and Administration, 3) went to University of Chicago?", "answer": "Diana Genevieve Brizuela"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Educational Leadership and Administration, 2) was born on August 21, 2013, 3) born in Visalia, CA?", "answer": "Diana Genevieve Brizuela"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Educational Leadership and Administration, 2) born in Visalia, CA, 3) was born on August 21, 2013?", "answer": "Diana Genevieve Brizuela"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Julia Elias Mihalko?", "answer": "April 5, 1986"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Julia Elias Mihalko?", "answer": "Cary, NC"}
+{"group": "", "task": "N2D", "question": "Which university did Julia Elias Mihalko study?", "answer": "University of Alabama in Huntsville"}
+{"group": "", "task": "N2D", "question": "What major did Julia Elias Mihalko study?", "answer": "Criminal Justice"}
+{"group": "", "task": "N2D", "question": "Which company did Julia Elias Mihalko work for?", "answer": "Time Warner"}
+{"group": "", "task": "N2D", "question": "Where did Julia Elias Mihalko work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Cary, NC, 2) majored in Criminal Justice, 3) worked in New York, NY?", "answer": "Julia Elias Mihalko"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Criminal Justice, 2) went to University of Alabama in Huntsville, 3) was born on April 5, 1986?", "answer": "Julia Elias Mihalko"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Criminal Justice, 2) was born on April 5, 1986, 3) went to University of Alabama in Huntsville?", "answer": "Julia Elias Mihalko"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Joshua Maggie Denman?", "answer": "June 28, 1902"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Joshua Maggie Denman?", "answer": "Tampa, FL"}
+{"group": "", "task": "N2D", "question": "Which university did Joshua Maggie Denman study?", "answer": "Bowling Green State University"}
+{"group": "", "task": "N2D", "question": "What major did Joshua Maggie Denman study?", "answer": "Occupational Therapy"}
+{"group": "", "task": "N2D", "question": "Which company did Joshua Maggie Denman work for?", "answer": "Apple"}
+{"group": "", "task": "N2D", "question": "Where did Joshua Maggie Denman work?", "answer": "Cupertino, CA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on June 28, 1902, 2) went to Bowling Green State University, 3) worked in Cupertino, CA?", "answer": "Joshua Maggie Denman"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Apple, 2) majored in Occupational Therapy, 3) was born on June 28, 1902?", "answer": "Joshua Maggie Denman"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Occupational Therapy, 2) worked for Apple, 3) went to Bowling Green State University?", "answer": "Joshua Maggie Denman"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Connie Collin Kipfer?", "answer": "February 15, 1967"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Connie Collin Kipfer?", "answer": "Saint Paul, MN"}
+{"group": "", "task": "N2D", "question": "Which university did Connie Collin Kipfer study?", "answer": "James Madison University"}
+{"group": "", "task": "N2D", "question": "What major did Connie Collin Kipfer study?", "answer": "Welding"}
+{"group": "", "task": "N2D", "question": "Which company did Connie Collin Kipfer work for?", "answer": "Altria Group"}
+{"group": "", "task": "N2D", "question": "Where did Connie Collin Kipfer work?", "answer": "Richmond, VA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Richmond, VA, 2) worked for Altria Group, 3) was born on February 15, 1967?", "answer": "Connie Collin Kipfer"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on February 15, 1967, 2) born in Saint Paul, MN, 3) went to James Madison University?", "answer": "Connie Collin Kipfer"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Richmond, VA, 2) was born on February 15, 1967, 3) worked for Altria Group?", "answer": "Connie Collin Kipfer"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Eddie Parker Dumke?", "answer": "February 5, 2098"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Eddie Parker Dumke?", "answer": "Overland Park, KS"}
+{"group": "", "task": "N2D", "question": "Which university did Eddie Parker Dumke study?", "answer": "Middle Tennessee State University"}
+{"group": "", "task": "N2D", "question": "What major did Eddie Parker Dumke study?", "answer": "Criminal Justice"}
+{"group": "", "task": "N2D", "question": "Which company did Eddie Parker Dumke work for?", "answer": "Reinsurance Group of America"}
+{"group": "", "task": "N2D", "question": "Where did Eddie Parker Dumke work?", "answer": "Chesterfield, MO"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Reinsurance Group of America, 2) was born on February 5, 2098, 3) majored in Criminal Justice?", "answer": "Eddie Parker Dumke"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on February 5, 2098, 2) born in Overland Park, KS, 3) majored in Criminal Justice?", "answer": "Eddie Parker Dumke"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Middle Tennessee State University, 2) worked in Chesterfield, MO, 3) born in Overland Park, KS?", "answer": "Eddie Parker Dumke"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Henry Jeff Hiedeman?", "answer": "January 3, 2032"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Henry Jeff Hiedeman?", "answer": "Minneapolis, MN"}
+{"group": "", "task": "N2D", "question": "Which university did Henry Jeff Hiedeman study?", "answer": "University of Illinois Urbana-Champaign"}
+{"group": "", "task": "N2D", "question": "What major did Henry Jeff Hiedeman study?", "answer": "Medical Executive Assistant"}
+{"group": "", "task": "N2D", "question": "Which company did Henry Jeff Hiedeman work for?", "answer": "Devon Energy"}
+{"group": "", "task": "N2D", "question": "Where did Henry Jeff Hiedeman work?", "answer": "Oklahoma City, OK"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Oklahoma City, OK, 2) born in Minneapolis, MN, 3) majored in Medical Executive Assistant?", "answer": "Henry Jeff Hiedeman"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Medical Executive Assistant, 2) was born on January 3, 2032, 3) went to University of Illinois Urbana-Champaign?", "answer": "Henry Jeff Hiedeman"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Illinois Urbana-Champaign, 2) born in Minneapolis, MN, 3) majored in Medical Executive Assistant?", "answer": "Henry Jeff Hiedeman"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Caroline Tristan Antony?", "answer": "May 11, 2035"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Caroline Tristan Antony?", "answer": "Oklahoma City, OK"}
+{"group": "", "task": "N2D", "question": "Which university did Caroline Tristan Antony study?", "answer": "Oklahoma State University\u2013Stillwater"}
+{"group": "", "task": "N2D", "question": "What major did Caroline Tristan Antony study?", "answer": "Logistics and Supply Chain Management"}
+{"group": "", "task": "N2D", "question": "Which company did Caroline Tristan Antony work for?", "answer": "Humana"}
+{"group": "", "task": "N2D", "question": "Where did Caroline Tristan Antony work?", "answer": "Louisville, KY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Louisville, KY, 2) went to Oklahoma State University\u2013Stillwater, 3) majored in Logistics and Supply Chain Management?", "answer": "Caroline Tristan Antony"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Logistics and Supply Chain Management, 2) worked for Humana, 3) born in Oklahoma City, OK?", "answer": "Caroline Tristan Antony"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on May 11, 2035, 2) went to Oklahoma State University\u2013Stillwater, 3) born in Oklahoma City, OK?", "answer": "Caroline Tristan Antony"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Emma Beth Kynard?", "answer": "December 10, 1926"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Emma Beth Kynard?", "answer": "Paterson, NJ"}
+{"group": "", "task": "N2D", "question": "Which university did Emma Beth Kynard study?", "answer": "Baylor College of Medicine"}
+{"group": "", "task": "N2D", "question": "What major did Emma Beth Kynard study?", "answer": "Curriculum and Instruction"}
+{"group": "", "task": "N2D", "question": "Which company did Emma Beth Kynard work for?", "answer": "Lennar"}
+{"group": "", "task": "N2D", "question": "Where did Emma Beth Kynard work?", "answer": "Miami, FL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on December 10, 1926, 2) went to Baylor College of Medicine, 3) majored in Curriculum and Instruction?", "answer": "Emma Beth Kynard"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Lennar, 2) majored in Curriculum and Instruction, 3) worked in Miami, FL?", "answer": "Emma Beth Kynard"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Curriculum and Instruction, 2) born in Paterson, NJ, 3) was born on December 10, 1926?", "answer": "Emma Beth Kynard"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Aiden Joanna Tolayo?", "answer": "September 4, 2005"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Aiden Joanna Tolayo?", "answer": "Elk Grove, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Aiden Joanna Tolayo study?", "answer": "Idaho State University"}
+{"group": "", "task": "N2D", "question": "What major did Aiden Joanna Tolayo study?", "answer": "Physical Therapy"}
+{"group": "", "task": "N2D", "question": "Which company did Aiden Joanna Tolayo work for?", "answer": "Aflac"}
+{"group": "", "task": "N2D", "question": "Where did Aiden Joanna Tolayo work?", "answer": "Columbus, GA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Columbus, GA, 2) worked for Aflac, 3) was born on September 4, 2005?", "answer": "Aiden Joanna Tolayo"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Idaho State University, 2) majored in Physical Therapy, 3) was born on September 4, 2005?", "answer": "Aiden Joanna Tolayo"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Columbus, GA, 2) worked for Aflac, 3) was born on September 4, 2005?", "answer": "Aiden Joanna Tolayo"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Edith Gene Gilberg?", "answer": "March 2, 2092"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Edith Gene Gilberg?", "answer": "Macon, GA"}
+{"group": "", "task": "N2D", "question": "Which university did Edith Gene Gilberg study?", "answer": "University of Maryland, Baltimore County"}
+{"group": "", "task": "N2D", "question": "What major did Edith Gene Gilberg study?", "answer": "Chemical Engineering"}
+{"group": "", "task": "N2D", "question": "Which company did Edith Gene Gilberg work for?", "answer": "Micron Technology"}
+{"group": "", "task": "N2D", "question": "Where did Edith Gene Gilberg work?", "answer": "Boise, ID"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on March 2, 2092, 2) worked for Micron Technology, 3) majored in Chemical Engineering?", "answer": "Edith Gene Gilberg"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Macon, GA, 2) went to University of Maryland, Baltimore County, 3) was born on March 2, 2092?", "answer": "Edith Gene Gilberg"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Chemical Engineering, 2) born in Macon, GA, 3) worked for Micron Technology?", "answer": "Edith Gene Gilberg"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Courtney Madelyn Starke?", "answer": "June 14, 1946"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Courtney Madelyn Starke?", "answer": "Elk Grove, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Courtney Madelyn Starke study?", "answer": "Georgetown University"}
+{"group": "", "task": "N2D", "question": "What major did Courtney Madelyn Starke study?", "answer": "Dental Assistant"}
+{"group": "", "task": "N2D", "question": "Which company did Courtney Madelyn Starke work for?", "answer": "UPS"}
+{"group": "", "task": "N2D", "question": "Where did Courtney Madelyn Starke work?", "answer": "Atlanta, GA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Atlanta, GA, 2) was born on June 14, 1946, 3) majored in Dental Assistant?", "answer": "Courtney Madelyn Starke"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for UPS, 2) majored in Dental Assistant, 3) worked in Atlanta, GA?", "answer": "Courtney Madelyn Starke"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Georgetown University, 2) worked in Atlanta, GA, 3) majored in Dental Assistant?", "answer": "Courtney Madelyn Starke"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Lois Iris Gaultney?", "answer": "July 19, 1993"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Lois Iris Gaultney?", "answer": "Eugene, OR"}
+{"group": "", "task": "N2D", "question": "Which university did Lois Iris Gaultney study?", "answer": "University of California, Berkeley"}
+{"group": "", "task": "N2D", "question": "What major did Lois Iris Gaultney study?", "answer": "Music"}
+{"group": "", "task": "N2D", "question": "Which company did Lois Iris Gaultney work for?", "answer": "Sherwin-Williams"}
+{"group": "", "task": "N2D", "question": "Where did Lois Iris Gaultney work?", "answer": "Cleveland, OH"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on July 19, 1993, 2) went to University of California, Berkeley, 3) born in Eugene, OR?", "answer": "Lois Iris Gaultney"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Eugene, OR, 2) was born on July 19, 1993, 3) went to University of California, Berkeley?", "answer": "Lois Iris Gaultney"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Music, 2) was born on July 19, 1993, 3) worked for Sherwin-Williams?", "answer": "Lois Iris Gaultney"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Bertha Faith Sullenberger?", "answer": "September 12, 2096"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Bertha Faith Sullenberger?", "answer": "Grand Rapids, MI"}
+{"group": "", "task": "N2D", "question": "Which university did Bertha Faith Sullenberger study?", "answer": "Montclair State University"}
+{"group": "", "task": "N2D", "question": "What major did Bertha Faith Sullenberger study?", "answer": "Advertising and Marketing"}
+{"group": "", "task": "N2D", "question": "Which company did Bertha Faith Sullenberger work for?", "answer": "Mondelez International"}
+{"group": "", "task": "N2D", "question": "Where did Bertha Faith Sullenberger work?", "answer": "Deerfield, IL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Montclair State University, 2) worked for Mondelez International, 3) was born on September 12, 2096?", "answer": "Bertha Faith Sullenberger"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Grand Rapids, MI, 2) was born on September 12, 2096, 3) worked for Mondelez International?", "answer": "Bertha Faith Sullenberger"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Mondelez International, 2) born in Grand Rapids, MI, 3) was born on September 12, 2096?", "answer": "Bertha Faith Sullenberger"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Keith Tommy Pepion?", "answer": "November 15, 1976"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Keith Tommy Pepion?", "answer": "Stockton, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Keith Tommy Pepion study?", "answer": "Illinois State University"}
+{"group": "", "task": "N2D", "question": "What major did Keith Tommy Pepion study?", "answer": "Industrial Engineering"}
+{"group": "", "task": "N2D", "question": "Which company did Keith Tommy Pepion work for?", "answer": "Phillips 66"}
+{"group": "", "task": "N2D", "question": "Where did Keith Tommy Pepion work?", "answer": "Houston, TX"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on November 15, 1976, 2) majored in Industrial Engineering, 3) born in Stockton, CA?", "answer": "Keith Tommy Pepion"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Industrial Engineering, 2) worked in Houston, TX, 3) born in Stockton, CA?", "answer": "Keith Tommy Pepion"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on November 15, 1976, 2) went to Illinois State University, 3) worked in Houston, TX?", "answer": "Keith Tommy Pepion"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Anne Meredith Aemmer?", "answer": "October 15, 2026"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Anne Meredith Aemmer?", "answer": "Scottsdale, AZ"}
+{"group": "", "task": "N2D", "question": "Which university did Anne Meredith Aemmer study?", "answer": "University of Nebraska\u2013Lincoln"}
+{"group": "", "task": "N2D", "question": "What major did Anne Meredith Aemmer study?", "answer": "Political Science"}
+{"group": "", "task": "N2D", "question": "Which company did Anne Meredith Aemmer work for?", "answer": "Morgan Stanley"}
+{"group": "", "task": "N2D", "question": "Where did Anne Meredith Aemmer work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Political Science, 2) worked in New York, NY, 3) worked for Morgan Stanley?", "answer": "Anne Meredith Aemmer"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Nebraska\u2013Lincoln, 2) was born on October 15, 2026, 3) majored in Political Science?", "answer": "Anne Meredith Aemmer"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on October 15, 2026, 2) worked for Morgan Stanley, 3) went to University of Nebraska\u2013Lincoln?", "answer": "Anne Meredith Aemmer"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Michael Christy Stomberg?", "answer": "November 5, 1915"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Michael Christy Stomberg?", "answer": "Bridgeport, CT"}
+{"group": "", "task": "N2D", "question": "Which university did Michael Christy Stomberg study?", "answer": "University of Wyoming"}
+{"group": "", "task": "N2D", "question": "What major did Michael Christy Stomberg study?", "answer": "Family Practice Nurse"}
+{"group": "", "task": "N2D", "question": "Which company did Michael Christy Stomberg work for?", "answer": "Time Warner"}
+{"group": "", "task": "N2D", "question": "Where did Michael Christy Stomberg work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on November 5, 1915, 2) went to University of Wyoming, 3) worked for Time Warner?", "answer": "Michael Christy Stomberg"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Wyoming, 2) majored in Family Practice Nurse, 3) worked in New York, NY?", "answer": "Michael Christy Stomberg"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Family Practice Nurse, 2) worked in New York, NY, 3) born in Bridgeport, CT?", "answer": "Michael Christy Stomberg"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Angela Lindsay Marian?", "answer": "January 13, 2034"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Angela Lindsay Marian?", "answer": "Laredo, TX"}
+{"group": "", "task": "N2D", "question": "Which university did Angela Lindsay Marian study?", "answer": "Mississippi State University"}
+{"group": "", "task": "N2D", "question": "What major did Angela Lindsay Marian study?", "answer": "Engineering"}
+{"group": "", "task": "N2D", "question": "Which company did Angela Lindsay Marian work for?", "answer": "Kellogg"}
+{"group": "", "task": "N2D", "question": "Where did Angela Lindsay Marian work?", "answer": "Battle Creek, MI"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Engineering, 2) worked in Battle Creek, MI, 3) born in Laredo, TX?", "answer": "Angela Lindsay Marian"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Battle Creek, MI, 2) went to Mississippi State University, 3) was born on January 13, 2034?", "answer": "Angela Lindsay Marian"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Mississippi State University, 2) was born on January 13, 2034, 3) worked for Kellogg?", "answer": "Angela Lindsay Marian"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Tyler Jerome Frizzle?", "answer": "May 9, 1981"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Tyler Jerome Frizzle?", "answer": "Mesquite, TX"}
+{"group": "", "task": "N2D", "question": "Which university did Tyler Jerome Frizzle study?", "answer": "North Carolina State University"}
+{"group": "", "task": "N2D", "question": "What major did Tyler Jerome Frizzle study?", "answer": "Public Health"}
+{"group": "", "task": "N2D", "question": "Which company did Tyler Jerome Frizzle work for?", "answer": "Dow Chemical"}
+{"group": "", "task": "N2D", "question": "Where did Tyler Jerome Frizzle work?", "answer": "Midland, MI"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Public Health, 2) born in Mesquite, TX, 3) went to North Carolina State University?", "answer": "Tyler Jerome Frizzle"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Public Health, 2) went to North Carolina State University, 3) was born on May 9, 1981?", "answer": "Tyler Jerome Frizzle"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to North Carolina State University, 2) worked for Dow Chemical, 3) worked in Midland, MI?", "answer": "Tyler Jerome Frizzle"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Joanne Vera Ankney?", "answer": "September 16, 2007"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Joanne Vera Ankney?", "answer": "McKinney, TX"}
+{"group": "", "task": "N2D", "question": "Which university did Joanne Vera Ankney study?", "answer": "Boston University"}
+{"group": "", "task": "N2D", "question": "What major did Joanne Vera Ankney study?", "answer": "Civil Engineering"}
+{"group": "", "task": "N2D", "question": "Which company did Joanne Vera Ankney work for?", "answer": "Archer Daniels Midland"}
+{"group": "", "task": "N2D", "question": "Where did Joanne Vera Ankney work?", "answer": "Chicago, IL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in McKinney, TX, 2) majored in Civil Engineering, 3) worked for Archer Daniels Midland?", "answer": "Joanne Vera Ankney"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on September 16, 2007, 2) worked for Archer Daniels Midland, 3) majored in Civil Engineering?", "answer": "Joanne Vera Ankney"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on September 16, 2007, 2) born in McKinney, TX, 3) worked for Archer Daniels Midland?", "answer": "Joanne Vera Ankney"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Keith Harriet Vails?", "answer": "March 7, 1972"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Keith Harriet Vails?", "answer": "Grand Rapids, MI"}
+{"group": "", "task": "N2D", "question": "Which university did Keith Harriet Vails study?", "answer": "Oklahoma State University\u2013Stillwater"}
+{"group": "", "task": "N2D", "question": "What major did Keith Harriet Vails study?", "answer": "Administrative Assistant"}
+{"group": "", "task": "N2D", "question": "Which company did Keith Harriet Vails work for?", "answer": "Time Warner"}
+{"group": "", "task": "N2D", "question": "Where did Keith Harriet Vails work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Grand Rapids, MI, 2) worked for Time Warner, 3) worked in New York, NY?", "answer": "Keith Harriet Vails"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in New York, NY, 2) went to Oklahoma State University\u2013Stillwater, 3) majored in Administrative Assistant?", "answer": "Keith Harriet Vails"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on March 7, 1972, 2) went to Oklahoma State University\u2013Stillwater, 3) majored in Administrative Assistant?", "answer": "Keith Harriet Vails"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Derek Kay Andregg?", "answer": "July 17, 2044"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Derek Kay Andregg?", "answer": "Tacoma, WA"}
+{"group": "", "task": "N2D", "question": "Which university did Derek Kay Andregg study?", "answer": "Texas A&M University\u2013Kingsville"}
+{"group": "", "task": "N2D", "question": "What major did Derek Kay Andregg study?", "answer": "Curriculum and Instruction"}
+{"group": "", "task": "N2D", "question": "Which company did Derek Kay Andregg work for?", "answer": "DaVita"}
+{"group": "", "task": "N2D", "question": "Where did Derek Kay Andregg work?", "answer": "Denver, CO"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for DaVita, 2) worked in Denver, CO, 3) born in Tacoma, WA?", "answer": "Derek Kay Andregg"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Tacoma, WA, 2) majored in Curriculum and Instruction, 3) was born on July 17, 2044?", "answer": "Derek Kay Andregg"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Curriculum and Instruction, 2) was born on July 17, 2044, 3) worked in Denver, CO?", "answer": "Derek Kay Andregg"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Clarence Xavier Stroll?", "answer": "June 15, 2046"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Clarence Xavier Stroll?", "answer": "Dallas, TX"}
+{"group": "", "task": "N2D", "question": "Which university did Clarence Xavier Stroll study?", "answer": "Vanderbilt University"}
+{"group": "", "task": "N2D", "question": "What major did Clarence Xavier Stroll study?", "answer": "Nail Technician"}
+{"group": "", "task": "N2D", "question": "Which company did Clarence Xavier Stroll work for?", "answer": "Avnet"}
+{"group": "", "task": "N2D", "question": "Where did Clarence Xavier Stroll work?", "answer": "Phoenix, AZ"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on June 15, 2046, 2) went to Vanderbilt University, 3) majored in Nail Technician?", "answer": "Clarence Xavier Stroll"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Dallas, TX, 2) worked for Avnet, 3) went to Vanderbilt University?", "answer": "Clarence Xavier Stroll"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Nail Technician, 2) born in Dallas, TX, 3) worked for Avnet?", "answer": "Clarence Xavier Stroll"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Martin Ashton Seif?", "answer": "February 16, 2072"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Martin Ashton Seif?", "answer": "Denton, TX"}
+{"group": "", "task": "N2D", "question": "Which university did Martin Ashton Seif study?", "answer": "University of Maryland, College Park"}
+{"group": "", "task": "N2D", "question": "What major did Martin Ashton Seif study?", "answer": "Physician Assistant"}
+{"group": "", "task": "N2D", "question": "Which company did Martin Ashton Seif work for?", "answer": "Whole Foods Market"}
+{"group": "", "task": "N2D", "question": "Where did Martin Ashton Seif work?", "answer": "Austin, TX"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Austin, TX, 2) majored in Physician Assistant, 3) born in Denton, TX?", "answer": "Martin Ashton Seif"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Whole Foods Market, 2) born in Denton, TX, 3) went to University of Maryland, College Park?", "answer": "Martin Ashton Seif"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on February 16, 2072, 2) went to University of Maryland, College Park, 3) majored in Physician Assistant?", "answer": "Martin Ashton Seif"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Isabella Agnes Tierman?", "answer": "October 26, 1999"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Isabella Agnes Tierman?", "answer": "Hollywood, FL"}
+{"group": "", "task": "N2D", "question": "Which university did Isabella Agnes Tierman study?", "answer": "University of Georgia"}
+{"group": "", "task": "N2D", "question": "What major did Isabella Agnes Tierman study?", "answer": "Special Education"}
+{"group": "", "task": "N2D", "question": "Which company did Isabella Agnes Tierman work for?", "answer": "Caterpillar"}
+{"group": "", "task": "N2D", "question": "Where did Isabella Agnes Tierman work?", "answer": "Peoria, IL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Caterpillar, 2) born in Hollywood, FL, 3) went to University of Georgia?", "answer": "Isabella Agnes Tierman"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Hollywood, FL, 2) was born on October 26, 1999, 3) majored in Special Education?", "answer": "Isabella Agnes Tierman"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Caterpillar, 2) was born on October 26, 1999, 3) went to University of Georgia?", "answer": "Isabella Agnes Tierman"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Luke Ben Alvaro?", "answer": "April 20, 2091"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Luke Ben Alvaro?", "answer": "Columbus, GA"}
+{"group": "", "task": "N2D", "question": "Which university did Luke Ben Alvaro study?", "answer": "Boston College"}
+{"group": "", "task": "N2D", "question": "What major did Luke Ben Alvaro study?", "answer": "Radiology Technician"}
+{"group": "", "task": "N2D", "question": "Which company did Luke Ben Alvaro work for?", "answer": "Progressive"}
+{"group": "", "task": "N2D", "question": "Where did Luke Ben Alvaro work?", "answer": "Mayfield Village, OH"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Columbus, GA, 2) worked for Progressive, 3) majored in Radiology Technician?", "answer": "Luke Ben Alvaro"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Radiology Technician, 2) went to Boston College, 3) was born on April 20, 2091?", "answer": "Luke Ben Alvaro"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Progressive, 2) worked in Mayfield Village, OH, 3) was born on April 20, 2091?", "answer": "Luke Ben Alvaro"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Arthur Tonya Mcward?", "answer": "December 16, 2072"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Arthur Tonya Mcward?", "answer": "Cape Coral, FL"}
+{"group": "", "task": "N2D", "question": "Which university did Arthur Tonya Mcward study?", "answer": "University of Iowa"}
+{"group": "", "task": "N2D", "question": "What major did Arthur Tonya Mcward study?", "answer": "Physical Therapy"}
+{"group": "", "task": "N2D", "question": "Which company did Arthur Tonya Mcward work for?", "answer": "VF"}
+{"group": "", "task": "N2D", "question": "Where did Arthur Tonya Mcward work?", "answer": "Greensboro, NC"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Greensboro, NC, 2) worked for VF, 3) was born on December 16, 2072?", "answer": "Arthur Tonya Mcward"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for VF, 2) went to University of Iowa, 3) worked in Greensboro, NC?", "answer": "Arthur Tonya Mcward"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Physical Therapy, 2) worked for VF, 3) was born on December 16, 2072?", "answer": "Arthur Tonya Mcward"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Eleanor Tamara Sterlace?", "answer": "April 7, 2055"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Eleanor Tamara Sterlace?", "answer": "Houston, TX"}
+{"group": "", "task": "N2D", "question": "Which university did Eleanor Tamara Sterlace study?", "answer": "Mercer University"}
+{"group": "", "task": "N2D", "question": "What major did Eleanor Tamara Sterlace study?", "answer": "Organizational Leadership"}
+{"group": "", "task": "N2D", "question": "Which company did Eleanor Tamara Sterlace work for?", "answer": "NRG Energy"}
+{"group": "", "task": "N2D", "question": "Where did Eleanor Tamara Sterlace work?", "answer": "Princeton, NJ"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Princeton, NJ, 2) born in Houston, TX, 3) went to Mercer University?", "answer": "Eleanor Tamara Sterlace"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on April 7, 2055, 2) went to Mercer University, 3) majored in Organizational Leadership?", "answer": "Eleanor Tamara Sterlace"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on April 7, 2055, 2) majored in Organizational Leadership, 3) worked in Princeton, NJ?", "answer": "Eleanor Tamara Sterlace"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Danielle Gwendolyn Meteer?", "answer": "April 7, 1903"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Danielle Gwendolyn Meteer?", "answer": "Huntsville, AL"}
+{"group": "", "task": "N2D", "question": "Which university did Danielle Gwendolyn Meteer study?", "answer": "Fordham University"}
+{"group": "", "task": "N2D", "question": "What major did Danielle Gwendolyn Meteer study?", "answer": "Physician Assistant"}
+{"group": "", "task": "N2D", "question": "Which company did Danielle Gwendolyn Meteer work for?", "answer": "Northrop Grumman"}
+{"group": "", "task": "N2D", "question": "Where did Danielle Gwendolyn Meteer work?", "answer": "Falls Church, VA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on April 7, 1903, 2) majored in Physician Assistant, 3) worked in Falls Church, VA?", "answer": "Danielle Gwendolyn Meteer"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Fordham University, 2) worked in Falls Church, VA, 3) majored in Physician Assistant?", "answer": "Danielle Gwendolyn Meteer"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Falls Church, VA, 2) majored in Physician Assistant, 3) born in Huntsville, AL?", "answer": "Danielle Gwendolyn Meteer"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Andrew Candace Schrecker?", "answer": "July 16, 1981"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Andrew Candace Schrecker?", "answer": "Scottsdale, AZ"}
+{"group": "", "task": "N2D", "question": "Which university did Andrew Candace Schrecker study?", "answer": "University of Arkansas"}
+{"group": "", "task": "N2D", "question": "What major did Andrew Candace Schrecker study?", "answer": "Math"}
+{"group": "", "task": "N2D", "question": "Which company did Andrew Candace Schrecker work for?", "answer": "Omnicom Group"}
+{"group": "", "task": "N2D", "question": "Where did Andrew Candace Schrecker work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in New York, NY, 2) was born on July 16, 1981, 3) worked for Omnicom Group?", "answer": "Andrew Candace Schrecker"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Arkansas, 2) worked for Omnicom Group, 3) worked in New York, NY?", "answer": "Andrew Candace Schrecker"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Scottsdale, AZ, 2) worked for Omnicom Group, 3) went to University of Arkansas?", "answer": "Andrew Candace Schrecker"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Douglas Margie Castaldo?", "answer": "January 22, 2062"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Douglas Margie Castaldo?", "answer": "Fresno, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Douglas Margie Castaldo study?", "answer": "University of Pittsburgh"}
+{"group": "", "task": "N2D", "question": "What major did Douglas Margie Castaldo study?", "answer": "Biomedical Science"}
+{"group": "", "task": "N2D", "question": "Which company did Douglas Margie Castaldo work for?", "answer": "Aramark"}
+{"group": "", "task": "N2D", "question": "Where did Douglas Margie Castaldo work?", "answer": "Philadelphia, PA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Biomedical Science, 2) worked for Aramark, 3) went to University of Pittsburgh?", "answer": "Douglas Margie Castaldo"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on January 22, 2062, 2) went to University of Pittsburgh, 3) worked for Aramark?", "answer": "Douglas Margie Castaldo"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Pittsburgh, 2) born in Fresno, CA, 3) was born on January 22, 2062?", "answer": "Douglas Margie Castaldo"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Earl Yvonne Schromen?", "answer": "November 14, 2099"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Earl Yvonne Schromen?", "answer": "Moreno Valley, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Earl Yvonne Schromen study?", "answer": "University of Pittsburgh"}
+{"group": "", "task": "N2D", "question": "What major did Earl Yvonne Schromen study?", "answer": "Mechanical Engineering"}
+{"group": "", "task": "N2D", "question": "Which company did Earl Yvonne Schromen work for?", "answer": "Supervalu"}
+{"group": "", "task": "N2D", "question": "Where did Earl Yvonne Schromen work?", "answer": "Eden Prairie, MN"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on November 14, 2099, 2) worked for Supervalu, 3) worked in Eden Prairie, MN?", "answer": "Earl Yvonne Schromen"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Mechanical Engineering, 2) born in Moreno Valley, CA, 3) worked in Eden Prairie, MN?", "answer": "Earl Yvonne Schromen"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Mechanical Engineering, 2) born in Moreno Valley, CA, 3) worked in Eden Prairie, MN?", "answer": "Earl Yvonne Schromen"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Jill Devon Rosin?", "answer": "March 16, 2083"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Jill Devon Rosin?", "answer": "Rockford, IL"}
+{"group": "", "task": "N2D", "question": "Which university did Jill Devon Rosin study?", "answer": "University of Massachusetts Chan Medical School"}
+{"group": "", "task": "N2D", "question": "What major did Jill Devon Rosin study?", "answer": "Special Education"}
+{"group": "", "task": "N2D", "question": "Which company did Jill Devon Rosin work for?", "answer": "XPO Logistics"}
+{"group": "", "task": "N2D", "question": "Where did Jill Devon Rosin work?", "answer": "Greenwich, CT"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Special Education, 2) was born on March 16, 2083, 3) born in Rockford, IL?", "answer": "Jill Devon Rosin"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Massachusetts Chan Medical School, 2) was born on March 16, 2083, 3) worked in Greenwich, CT?", "answer": "Jill Devon Rosin"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Massachusetts Chan Medical School, 2) worked for XPO Logistics, 3) was born on March 16, 2083?", "answer": "Jill Devon Rosin"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Shawn Agnes Kinkella?", "answer": "April 23, 2003"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Shawn Agnes Kinkella?", "answer": "Charlotte, NC"}
+{"group": "", "task": "N2D", "question": "Which university did Shawn Agnes Kinkella study?", "answer": "Clemson University"}
+{"group": "", "task": "N2D", "question": "What major did Shawn Agnes Kinkella study?", "answer": "Chemical Engineering"}
+{"group": "", "task": "N2D", "question": "Which company did Shawn Agnes Kinkella work for?", "answer": "Southern"}
+{"group": "", "task": "N2D", "question": "Where did Shawn Agnes Kinkella work?", "answer": "Atlanta, GA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Charlotte, NC, 2) worked for Southern, 3) was born on April 23, 2003?", "answer": "Shawn Agnes Kinkella"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Atlanta, GA, 2) was born on April 23, 2003, 3) worked for Southern?", "answer": "Shawn Agnes Kinkella"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Charlotte, NC, 2) worked in Atlanta, GA, 3) majored in Chemical Engineering?", "answer": "Shawn Agnes Kinkella"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Joanne Miguel Bedard?", "answer": "March 21, 1945"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Joanne Miguel Bedard?", "answer": "Minneapolis, MN"}
+{"group": "", "task": "N2D", "question": "Which university did Joanne Miguel Bedard study?", "answer": "University of North Carolina at Charlotte"}
+{"group": "", "task": "N2D", "question": "What major did Joanne Miguel Bedard study?", "answer": "Counseling Psychology"}
+{"group": "", "task": "N2D", "question": "Which company did Joanne Miguel Bedard work for?", "answer": "Farmers Insurance Exchange"}
+{"group": "", "task": "N2D", "question": "Where did Joanne Miguel Bedard work?", "answer": "Woodland Hills, CA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Counseling Psychology, 2) went to University of North Carolina at Charlotte, 3) worked for Farmers Insurance Exchange?", "answer": "Joanne Miguel Bedard"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Farmers Insurance Exchange, 2) was born on March 21, 1945, 3) majored in Counseling Psychology?", "answer": "Joanne Miguel Bedard"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Counseling Psychology, 2) born in Minneapolis, MN, 3) went to University of North Carolina at Charlotte?", "answer": "Joanne Miguel Bedard"}
+{"group": "", "task": "N2D", "question": "What is the birth date of June Javier Ethridge?", "answer": "September 7, 1932"}
+{"group": "", "task": "N2D", "question": "What is the birth city of June Javier Ethridge?", "answer": "St. Louis, MO"}
+{"group": "", "task": "N2D", "question": "Which university did June Javier Ethridge study?", "answer": "Florida International University"}
+{"group": "", "task": "N2D", "question": "What major did June Javier Ethridge study?", "answer": "Social Science"}
+{"group": "", "task": "N2D", "question": "Which company did June Javier Ethridge work for?", "answer": "Express Scripts Holding"}
+{"group": "", "task": "N2D", "question": "Where did June Javier Ethridge work?", "answer": "St. Louis, MO"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Florida International University, 2) majored in Social Science, 3) was born on September 7, 1932?", "answer": "June Javier Ethridge"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Social Science, 2) worked in St. Louis, MO, 3) was born on September 7, 1932?", "answer": "June Javier Ethridge"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Express Scripts Holding, 2) went to Florida International University, 3) worked in St. Louis, MO?", "answer": "June Javier Ethridge"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Ian Kaleb Parsi?", "answer": "June 23, 1927"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Ian Kaleb Parsi?", "answer": "Stockton, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Ian Kaleb Parsi study?", "answer": "Texas Tech University"}
+{"group": "", "task": "N2D", "question": "What major did Ian Kaleb Parsi study?", "answer": "Biomedical Engineering"}
+{"group": "", "task": "N2D", "question": "Which company did Ian Kaleb Parsi work for?", "answer": "Dominion Energy"}
+{"group": "", "task": "N2D", "question": "Where did Ian Kaleb Parsi work?", "answer": "Richmond, VA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Texas Tech University, 2) majored in Biomedical Engineering, 3) worked in Richmond, VA?", "answer": "Ian Kaleb Parsi"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Biomedical Engineering, 2) was born on June 23, 1927, 3) born in Stockton, CA?", "answer": "Ian Kaleb Parsi"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Richmond, VA, 2) born in Stockton, CA, 3) majored in Biomedical Engineering?", "answer": "Ian Kaleb Parsi"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Edith Angelo Schwingler?", "answer": "January 3, 1976"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Edith Angelo Schwingler?", "answer": "Cape Coral, FL"}
+{"group": "", "task": "N2D", "question": "Which university did Edith Angelo Schwingler study?", "answer": "Boston College"}
+{"group": "", "task": "N2D", "question": "What major did Edith Angelo Schwingler study?", "answer": "Fine Arts and Studio Arts"}
+{"group": "", "task": "N2D", "question": "Which company did Edith Angelo Schwingler work for?", "answer": "Danaher"}
+{"group": "", "task": "N2D", "question": "Where did Edith Angelo Schwingler work?", "answer": "Washington, DC"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Cape Coral, FL, 2) majored in Fine Arts and Studio Arts, 3) worked in Washington, DC?", "answer": "Edith Angelo Schwingler"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Fine Arts and Studio Arts, 2) worked for Danaher, 3) born in Cape Coral, FL?", "answer": "Edith Angelo Schwingler"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on January 3, 1976, 2) worked in Washington, DC, 3) worked for Danaher?", "answer": "Edith Angelo Schwingler"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Jeremy Don Trosper?", "answer": "April 15, 2010"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Jeremy Don Trosper?", "answer": "Houston, TX"}
+{"group": "", "task": "N2D", "question": "Which university did Jeremy Don Trosper study?", "answer": "University of California, Santa Barbara"}
+{"group": "", "task": "N2D", "question": "What major did Jeremy Don Trosper study?", "answer": "Finance"}
+{"group": "", "task": "N2D", "question": "Which company did Jeremy Don Trosper work for?", "answer": "J.P. Morgan Chase"}
+{"group": "", "task": "N2D", "question": "Where did Jeremy Don Trosper work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of California, Santa Barbara, 2) was born on April 15, 2010, 3) worked for J.P. Morgan Chase?", "answer": "Jeremy Don Trosper"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on April 15, 2010, 2) majored in Finance, 3) born in Houston, TX?", "answer": "Jeremy Don Trosper"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Finance, 2) worked for J.P. Morgan Chase, 3) was born on April 15, 2010?", "answer": "Jeremy Don Trosper"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Jean Alexandria Hollway?", "answer": "December 2, 1994"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Jean Alexandria Hollway?", "answer": "Oxnard, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Jean Alexandria Hollway study?", "answer": "Marquette University"}
+{"group": "", "task": "N2D", "question": "What major did Jean Alexandria Hollway study?", "answer": "General Studies"}
+{"group": "", "task": "N2D", "question": "Which company did Jean Alexandria Hollway work for?", "answer": "CSX"}
+{"group": "", "task": "N2D", "question": "Where did Jean Alexandria Hollway work?", "answer": "Jacksonville, FL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for CSX, 2) born in Oxnard, CA, 3) worked in Jacksonville, FL?", "answer": "Jean Alexandria Hollway"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in General Studies, 2) was born on December 2, 1994, 3) went to Marquette University?", "answer": "Jean Alexandria Hollway"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Jacksonville, FL, 2) was born on December 2, 1994, 3) born in Oxnard, CA?", "answer": "Jean Alexandria Hollway"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Natalie Carmen Hailey?", "answer": "December 17, 1967"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Natalie Carmen Hailey?", "answer": "Chula Vista, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Natalie Carmen Hailey study?", "answer": "Baylor University"}
+{"group": "", "task": "N2D", "question": "What major did Natalie Carmen Hailey study?", "answer": "Human Services"}
+{"group": "", "task": "N2D", "question": "Which company did Natalie Carmen Hailey work for?", "answer": "Allstate"}
+{"group": "", "task": "N2D", "question": "Where did Natalie Carmen Hailey work?", "answer": "Northbrook, IL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Chula Vista, CA, 2) went to Baylor University, 3) was born on December 17, 1967?", "answer": "Natalie Carmen Hailey"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Baylor University, 2) majored in Human Services, 3) worked in Northbrook, IL?", "answer": "Natalie Carmen Hailey"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Baylor University, 2) born in Chula Vista, CA, 3) worked in Northbrook, IL?", "answer": "Natalie Carmen Hailey"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Sarah Brayden Baires?", "answer": "January 18, 1944"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Sarah Brayden Baires?", "answer": "Fremont, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Sarah Brayden Baires study?", "answer": "Indiana University Bloomington"}
+{"group": "", "task": "N2D", "question": "What major did Sarah Brayden Baires study?", "answer": "Auto Mechanic"}
+{"group": "", "task": "N2D", "question": "Which company did Sarah Brayden Baires work for?", "answer": "Johnson & Johnson"}
+{"group": "", "task": "N2D", "question": "Where did Sarah Brayden Baires work?", "answer": "New Brunswick, NJ"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in New Brunswick, NJ, 2) worked for Johnson & Johnson, 3) born in Fremont, CA?", "answer": "Sarah Brayden Baires"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Johnson & Johnson, 2) born in Fremont, CA, 3) was born on January 18, 1944?", "answer": "Sarah Brayden Baires"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Fremont, CA, 2) majored in Auto Mechanic, 3) worked in New Brunswick, NJ?", "answer": "Sarah Brayden Baires"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Calvin Nina Vanguilder?", "answer": "April 16, 1913"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Calvin Nina Vanguilder?", "answer": "Akron, OH"}
+{"group": "", "task": "N2D", "question": "Which university did Calvin Nina Vanguilder study?", "answer": "Montana State University"}
+{"group": "", "task": "N2D", "question": "What major did Calvin Nina Vanguilder study?", "answer": "General Studies"}
+{"group": "", "task": "N2D", "question": "Which company did Calvin Nina Vanguilder work for?", "answer": "INTL FCStone"}
+{"group": "", "task": "N2D", "question": "Where did Calvin Nina Vanguilder work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in New York, NY, 2) went to Montana State University, 3) born in Akron, OH?", "answer": "Calvin Nina Vanguilder"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in General Studies, 2) went to Montana State University, 3) was born on April 16, 1913?", "answer": "Calvin Nina Vanguilder"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in General Studies, 2) worked for INTL FCStone, 3) worked in New York, NY?", "answer": "Calvin Nina Vanguilder"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Shane Nevaeh Roaden?", "answer": "March 21, 2074"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Shane Nevaeh Roaden?", "answer": "Sunnyvale, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Shane Nevaeh Roaden study?", "answer": "Oregon State University"}
+{"group": "", "task": "N2D", "question": "What major did Shane Nevaeh Roaden study?", "answer": "Family Practice Nurse"}
+{"group": "", "task": "N2D", "question": "Which company did Shane Nevaeh Roaden work for?", "answer": "Newell Brands"}
+{"group": "", "task": "N2D", "question": "Where did Shane Nevaeh Roaden work?", "answer": "Hoboken, NJ"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on March 21, 2074, 2) worked for Newell Brands, 3) majored in Family Practice Nurse?", "answer": "Shane Nevaeh Roaden"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Newell Brands, 2) went to Oregon State University, 3) majored in Family Practice Nurse?", "answer": "Shane Nevaeh Roaden"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Sunnyvale, CA, 2) majored in Family Practice Nurse, 3) worked for Newell Brands?", "answer": "Shane Nevaeh Roaden"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Michael Patsy Kinkella?", "answer": "July 17, 2082"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Michael Patsy Kinkella?", "answer": "Colorado Springs, CO"}
+{"group": "", "task": "N2D", "question": "Which university did Michael Patsy Kinkella study?", "answer": "Thomas Jefferson University"}
+{"group": "", "task": "N2D", "question": "What major did Michael Patsy Kinkella study?", "answer": "Economics"}
+{"group": "", "task": "N2D", "question": "Which company did Michael Patsy Kinkella work for?", "answer": "Enterprise Products Partners"}
+{"group": "", "task": "N2D", "question": "Where did Michael Patsy Kinkella work?", "answer": "Houston, TX"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Economics, 2) was born on July 17, 2082, 3) born in Colorado Springs, CO?", "answer": "Michael Patsy Kinkella"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Economics, 2) worked for Enterprise Products Partners, 3) born in Colorado Springs, CO?", "answer": "Michael Patsy Kinkella"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Economics, 2) was born on July 17, 2082, 3) worked for Enterprise Products Partners?", "answer": "Michael Patsy Kinkella"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Stephanie Lester Brandl?", "answer": "February 6, 2068"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Stephanie Lester Brandl?", "answer": "Hollywood, FL"}
+{"group": "", "task": "N2D", "question": "Which university did Stephanie Lester Brandl study?", "answer": "University of Central Florida"}
+{"group": "", "task": "N2D", "question": "What major did Stephanie Lester Brandl study?", "answer": "Math"}
+{"group": "", "task": "N2D", "question": "Which company did Stephanie Lester Brandl work for?", "answer": "Hewlett Packard Enterprise"}
+{"group": "", "task": "N2D", "question": "Where did Stephanie Lester Brandl work?", "answer": "Palo Alto, CA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Central Florida, 2) born in Hollywood, FL, 3) worked for Hewlett Packard Enterprise?", "answer": "Stephanie Lester Brandl"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Hollywood, FL, 2) was born on February 6, 2068, 3) worked in Palo Alto, CA?", "answer": "Stephanie Lester Brandl"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Math, 2) worked for Hewlett Packard Enterprise, 3) born in Hollywood, FL?", "answer": "Stephanie Lester Brandl"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Joyce Nelson Bai?", "answer": "March 24, 1998"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Joyce Nelson Bai?", "answer": "Elk Grove, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Joyce Nelson Bai study?", "answer": "University of California, San Diego"}
+{"group": "", "task": "N2D", "question": "What major did Joyce Nelson Bai study?", "answer": "General Studies"}
+{"group": "", "task": "N2D", "question": "Which company did Joyce Nelson Bai work for?", "answer": "Northrop Grumman"}
+{"group": "", "task": "N2D", "question": "Where did Joyce Nelson Bai work?", "answer": "Falls Church, VA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on March 24, 1998, 2) majored in General Studies, 3) worked for Northrop Grumman?", "answer": "Joyce Nelson Bai"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on March 24, 1998, 2) born in Elk Grove, CA, 3) worked for Northrop Grumman?", "answer": "Joyce Nelson Bai"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Elk Grove, CA, 2) was born on March 24, 1998, 3) went to University of California, San Diego?", "answer": "Joyce Nelson Bai"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Marjorie Bethany Donelon?", "answer": "July 24, 1938"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Marjorie Bethany Donelon?", "answer": "Tacoma, WA"}
+{"group": "", "task": "N2D", "question": "Which university did Marjorie Bethany Donelon study?", "answer": "University of Connecticut"}
+{"group": "", "task": "N2D", "question": "What major did Marjorie Bethany Donelon study?", "answer": "Nursing Administration"}
+{"group": "", "task": "N2D", "question": "Which company did Marjorie Bethany Donelon work for?", "answer": "Estee Lauder"}
+{"group": "", "task": "N2D", "question": "Where did Marjorie Bethany Donelon work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Tacoma, WA, 2) went to University of Connecticut, 3) worked in New York, NY?", "answer": "Marjorie Bethany Donelon"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Connecticut, 2) majored in Nursing Administration, 3) was born on July 24, 1938?", "answer": "Marjorie Bethany Donelon"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on July 24, 1938, 2) worked in New York, NY, 3) worked for Estee Lauder?", "answer": "Marjorie Bethany Donelon"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Laura Priscilla Pondexter?", "answer": "December 11, 1993"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Laura Priscilla Pondexter?", "answer": "Providence, RI"}
+{"group": "", "task": "N2D", "question": "Which university did Laura Priscilla Pondexter study?", "answer": "North Dakota State University"}
+{"group": "", "task": "N2D", "question": "What major did Laura Priscilla Pondexter study?", "answer": "Psychology"}
+{"group": "", "task": "N2D", "question": "Which company did Laura Priscilla Pondexter work for?", "answer": "PBF Energy"}
+{"group": "", "task": "N2D", "question": "Where did Laura Priscilla Pondexter work?", "answer": "Parsippany, NJ"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on December 11, 1993, 2) worked in Parsippany, NJ, 3) born in Providence, RI?", "answer": "Laura Priscilla Pondexter"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Providence, RI, 2) majored in Psychology, 3) worked in Parsippany, NJ?", "answer": "Laura Priscilla Pondexter"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Psychology, 2) went to North Dakota State University, 3) born in Providence, RI?", "answer": "Laura Priscilla Pondexter"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Jesse Jeff Kapsos?", "answer": "June 12, 1981"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Jesse Jeff Kapsos?", "answer": "Tucson, AZ"}
+{"group": "", "task": "N2D", "question": "Which university did Jesse Jeff Kapsos study?", "answer": "Florida State University"}
+{"group": "", "task": "N2D", "question": "What major did Jesse Jeff Kapsos study?", "answer": "Criminology"}
+{"group": "", "task": "N2D", "question": "Which company did Jesse Jeff Kapsos work for?", "answer": "Cognizant Technology Solutions"}
+{"group": "", "task": "N2D", "question": "Where did Jesse Jeff Kapsos work?", "answer": "Teaneck, NJ"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Cognizant Technology Solutions, 2) born in Tucson, AZ, 3) went to Florida State University?", "answer": "Jesse Jeff Kapsos"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Cognizant Technology Solutions, 2) went to Florida State University, 3) majored in Criminology?", "answer": "Jesse Jeff Kapsos"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Teaneck, NJ, 2) majored in Criminology, 3) went to Florida State University?", "answer": "Jesse Jeff Kapsos"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Wanda Jennie Zeimet?", "answer": "June 22, 2007"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Wanda Jennie Zeimet?", "answer": "Birmingham, AL"}
+{"group": "", "task": "N2D", "question": "Which university did Wanda Jennie Zeimet study?", "answer": "University of New Hampshire"}
+{"group": "", "task": "N2D", "question": "What major did Wanda Jennie Zeimet study?", "answer": "Physical Education"}
+{"group": "", "task": "N2D", "question": "Which company did Wanda Jennie Zeimet work for?", "answer": "Northwestern Mutual"}
+{"group": "", "task": "N2D", "question": "Where did Wanda Jennie Zeimet work?", "answer": "Milwaukee, WI"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Physical Education, 2) worked for Northwestern Mutual, 3) worked in Milwaukee, WI?", "answer": "Wanda Jennie Zeimet"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Milwaukee, WI, 2) majored in Physical Education, 3) went to University of New Hampshire?", "answer": "Wanda Jennie Zeimet"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Milwaukee, WI, 2) was born on June 22, 2007, 3) majored in Physical Education?", "answer": "Wanda Jennie Zeimet"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Luke Miles Sczbecki?", "answer": "January 7, 2043"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Luke Miles Sczbecki?", "answer": "Oceanside, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Luke Miles Sczbecki study?", "answer": "University of Massachusetts Dartmouth"}
+{"group": "", "task": "N2D", "question": "What major did Luke Miles Sczbecki study?", "answer": "Administrative Assistant"}
+{"group": "", "task": "N2D", "question": "Which company did Luke Miles Sczbecki work for?", "answer": "Capital One Financial"}
+{"group": "", "task": "N2D", "question": "Where did Luke Miles Sczbecki work?", "answer": "McLean, VA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Oceanside, CA, 2) worked in McLean, VA, 3) majored in Administrative Assistant?", "answer": "Luke Miles Sczbecki"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Massachusetts Dartmouth, 2) majored in Administrative Assistant, 3) born in Oceanside, CA?", "answer": "Luke Miles Sczbecki"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Massachusetts Dartmouth, 2) born in Oceanside, CA, 3) worked for Capital One Financial?", "answer": "Luke Miles Sczbecki"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Lee Destiny Benzer?", "answer": "December 28, 1950"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Lee Destiny Benzer?", "answer": "Denver, CO"}
+{"group": "", "task": "N2D", "question": "Which university did Lee Destiny Benzer study?", "answer": "University of Maine"}
+{"group": "", "task": "N2D", "question": "What major did Lee Destiny Benzer study?", "answer": "Administrative Assistant"}
+{"group": "", "task": "N2D", "question": "Which company did Lee Destiny Benzer work for?", "answer": "United Continental Holdings"}
+{"group": "", "task": "N2D", "question": "Where did Lee Destiny Benzer work?", "answer": "Chicago, IL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on December 28, 1950, 2) born in Denver, CO, 3) worked for United Continental Holdings?", "answer": "Lee Destiny Benzer"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Chicago, IL, 2) went to University of Maine, 3) majored in Administrative Assistant?", "answer": "Lee Destiny Benzer"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Administrative Assistant, 2) worked for United Continental Holdings, 3) went to University of Maine?", "answer": "Lee Destiny Benzer"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Matthew Nevaeh Kimpel?", "answer": "February 27, 1981"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Matthew Nevaeh Kimpel?", "answer": "Tucson, AZ"}
+{"group": "", "task": "N2D", "question": "Which university did Matthew Nevaeh Kimpel study?", "answer": "University of New Hampshire"}
+{"group": "", "task": "N2D", "question": "What major did Matthew Nevaeh Kimpel study?", "answer": "Healthcare Administration"}
+{"group": "", "task": "N2D", "question": "Which company did Matthew Nevaeh Kimpel work for?", "answer": "AIG"}
+{"group": "", "task": "N2D", "question": "Where did Matthew Nevaeh Kimpel work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Healthcare Administration, 2) went to University of New Hampshire, 3) worked for AIG?", "answer": "Matthew Nevaeh Kimpel"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for AIG, 2) majored in Healthcare Administration, 3) went to University of New Hampshire?", "answer": "Matthew Nevaeh Kimpel"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on February 27, 1981, 2) worked in New York, NY, 3) born in Tucson, AZ?", "answer": "Matthew Nevaeh Kimpel"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Jerry Harriet Tammo?", "answer": "February 26, 1998"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Jerry Harriet Tammo?", "answer": "Grand Rapids, MI"}
+{"group": "", "task": "N2D", "question": "Which university did Jerry Harriet Tammo study?", "answer": "Loyola University Chicago"}
+{"group": "", "task": "N2D", "question": "What major did Jerry Harriet Tammo study?", "answer": "Biomedical Science"}
+{"group": "", "task": "N2D", "question": "Which company did Jerry Harriet Tammo work for?", "answer": "Prudential Financial"}
+{"group": "", "task": "N2D", "question": "Where did Jerry Harriet Tammo work?", "answer": "Newark, NJ"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on February 26, 1998, 2) majored in Biomedical Science, 3) worked in Newark, NJ?", "answer": "Jerry Harriet Tammo"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Loyola University Chicago, 2) majored in Biomedical Science, 3) born in Grand Rapids, MI?", "answer": "Jerry Harriet Tammo"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on February 26, 1998, 2) went to Loyola University Chicago, 3) worked for Prudential Financial?", "answer": "Jerry Harriet Tammo"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Joseph Mae Wurth?", "answer": "September 20, 2042"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Joseph Mae Wurth?", "answer": "Chicago, IL"}
+{"group": "", "task": "N2D", "question": "Which university did Joseph Mae Wurth study?", "answer": "Air Force Institute of Technology Graduate School of Engineering & Management"}
+{"group": "", "task": "N2D", "question": "What major did Joseph Mae Wurth study?", "answer": "Early Childhood Education"}
+{"group": "", "task": "N2D", "question": "Which company did Joseph Mae Wurth work for?", "answer": "PPG Industries"}
+{"group": "", "task": "N2D", "question": "Where did Joseph Mae Wurth work?", "answer": "Pittsburgh, PA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Early Childhood Education, 2) was born on September 20, 2042, 3) worked in Pittsburgh, PA?", "answer": "Joseph Mae Wurth"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Chicago, IL, 2) worked in Pittsburgh, PA, 3) majored in Early Childhood Education?", "answer": "Joseph Mae Wurth"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Pittsburgh, PA, 2) went to Air Force Institute of Technology Graduate School of Engineering & Management, 3) was born on September 20, 2042?", "answer": "Joseph Mae Wurth"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Troy Edgar Dewiel?", "answer": "June 6, 2056"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Troy Edgar Dewiel?", "answer": "Mesa, AZ"}
+{"group": "", "task": "N2D", "question": "Which university did Troy Edgar Dewiel study?", "answer": "Creighton University"}
+{"group": "", "task": "N2D", "question": "What major did Troy Edgar Dewiel study?", "answer": "Sociology"}
+{"group": "", "task": "N2D", "question": "Which company did Troy Edgar Dewiel work for?", "answer": "American Airlines Group"}
+{"group": "", "task": "N2D", "question": "Where did Troy Edgar Dewiel work?", "answer": "Fort Worth, TX"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for American Airlines Group, 2) went to Creighton University, 3) born in Mesa, AZ?", "answer": "Troy Edgar Dewiel"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Fort Worth, TX, 2) worked for American Airlines Group, 3) born in Mesa, AZ?", "answer": "Troy Edgar Dewiel"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Fort Worth, TX, 2) was born on June 6, 2056, 3) went to Creighton University?", "answer": "Troy Edgar Dewiel"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Shawn Janie Deralph?", "answer": "November 4, 1979"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Shawn Janie Deralph?", "answer": "Toledo, OH"}
+{"group": "", "task": "N2D", "question": "Which university did Shawn Janie Deralph study?", "answer": "Texas Tech University Health Sciences Center"}
+{"group": "", "task": "N2D", "question": "What major did Shawn Janie Deralph study?", "answer": "Massage Therapy"}
+{"group": "", "task": "N2D", "question": "Which company did Shawn Janie Deralph work for?", "answer": "VF"}
+{"group": "", "task": "N2D", "question": "Where did Shawn Janie Deralph work?", "answer": "Greensboro, NC"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Texas Tech University Health Sciences Center, 2) born in Toledo, OH, 3) majored in Massage Therapy?", "answer": "Shawn Janie Deralph"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Greensboro, NC, 2) went to Texas Tech University Health Sciences Center, 3) worked for VF?", "answer": "Shawn Janie Deralph"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Greensboro, NC, 2) born in Toledo, OH, 3) majored in Massage Therapy?", "answer": "Shawn Janie Deralph"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Jessica Omar Torian?", "answer": "May 22, 2076"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Jessica Omar Torian?", "answer": "Elk Grove, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Jessica Omar Torian study?", "answer": "University of Tennessee"}
+{"group": "", "task": "N2D", "question": "What major did Jessica Omar Torian study?", "answer": "International Relations"}
+{"group": "", "task": "N2D", "question": "Which company did Jessica Omar Torian work for?", "answer": "J.C. Penney"}
+{"group": "", "task": "N2D", "question": "Where did Jessica Omar Torian work?", "answer": "Plano, TX"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Plano, TX, 2) went to University of Tennessee, 3) born in Elk Grove, CA?", "answer": "Jessica Omar Torian"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for J.C. Penney, 2) majored in International Relations, 3) was born on May 22, 2076?", "answer": "Jessica Omar Torian"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in International Relations, 2) born in Elk Grove, CA, 3) worked in Plano, TX?", "answer": "Jessica Omar Torian"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Ida Landon Nerren?", "answer": "October 2, 1914"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Ida Landon Nerren?", "answer": "Gainesville, FL"}
+{"group": "", "task": "N2D", "question": "Which university did Ida Landon Nerren study?", "answer": "Central Michigan University"}
+{"group": "", "task": "N2D", "question": "What major did Ida Landon Nerren study?", "answer": "Civil Engineering"}
+{"group": "", "task": "N2D", "question": "Which company did Ida Landon Nerren work for?", "answer": "Thermo Fisher Scientific"}
+{"group": "", "task": "N2D", "question": "Where did Ida Landon Nerren work?", "answer": "Waltham, MA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on October 2, 1914, 2) born in Gainesville, FL, 3) worked in Waltham, MA?", "answer": "Ida Landon Nerren"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Gainesville, FL, 2) went to Central Michigan University, 3) worked in Waltham, MA?", "answer": "Ida Landon Nerren"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Civil Engineering, 2) went to Central Michigan University, 3) worked in Waltham, MA?", "answer": "Ida Landon Nerren"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Erin Kate Franeo?", "answer": "October 9, 1946"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Erin Kate Franeo?", "answer": "Honolulu, HI"}
+{"group": "", "task": "N2D", "question": "Which university did Erin Kate Franeo study?", "answer": "Tarleton State University"}
+{"group": "", "task": "N2D", "question": "What major did Erin Kate Franeo study?", "answer": "Dental Assistant"}
+{"group": "", "task": "N2D", "question": "Which company did Erin Kate Franeo work for?", "answer": "AbbVie"}
+{"group": "", "task": "N2D", "question": "Where did Erin Kate Franeo work?", "answer": "North Chicago, IL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Honolulu, HI, 2) majored in Dental Assistant, 3) worked for AbbVie?", "answer": "Erin Kate Franeo"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Dental Assistant, 2) was born on October 9, 1946, 3) went to Tarleton State University?", "answer": "Erin Kate Franeo"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Dental Assistant, 2) born in Honolulu, HI, 3) went to Tarleton State University?", "answer": "Erin Kate Franeo"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Larry Rafael Ramesar?", "answer": "June 28, 1960"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Larry Rafael Ramesar?", "answer": "Raleigh, NC"}
+{"group": "", "task": "N2D", "question": "Which university did Larry Rafael Ramesar study?", "answer": "University of Texas at El Paso"}
+{"group": "", "task": "N2D", "question": "What major did Larry Rafael Ramesar study?", "answer": "Secondary Education"}
+{"group": "", "task": "N2D", "question": "Which company did Larry Rafael Ramesar work for?", "answer": "Dollar General"}
+{"group": "", "task": "N2D", "question": "Where did Larry Rafael Ramesar work?", "answer": "Goodlettsville, TN"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Texas at El Paso, 2) born in Raleigh, NC, 3) worked for Dollar General?", "answer": "Larry Rafael Ramesar"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Secondary Education, 2) born in Raleigh, NC, 3) worked for Dollar General?", "answer": "Larry Rafael Ramesar"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on June 28, 1960, 2) born in Raleigh, NC, 3) went to University of Texas at El Paso?", "answer": "Larry Rafael Ramesar"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Melissa Franklin Claes?", "answer": "November 22, 1913"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Melissa Franklin Claes?", "answer": "Tucson, AZ"}
+{"group": "", "task": "N2D", "question": "Which university did Melissa Franklin Claes study?", "answer": "University of Alabama at Birmingham"}
+{"group": "", "task": "N2D", "question": "What major did Melissa Franklin Claes study?", "answer": "Dental Assistant"}
+{"group": "", "task": "N2D", "question": "Which company did Melissa Franklin Claes work for?", "answer": "PNC Financial Services Group"}
+{"group": "", "task": "N2D", "question": "Where did Melissa Franklin Claes work?", "answer": "Pittsburgh, PA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Tucson, AZ, 2) worked in Pittsburgh, PA, 3) was born on November 22, 1913?", "answer": "Melissa Franklin Claes"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Pittsburgh, PA, 2) went to University of Alabama at Birmingham, 3) was born on November 22, 1913?", "answer": "Melissa Franklin Claes"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Tucson, AZ, 2) worked for PNC Financial Services Group, 3) worked in Pittsburgh, PA?", "answer": "Melissa Franklin Claes"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Esther Darrell Paez?", "answer": "May 20, 1979"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Esther Darrell Paez?", "answer": "Springfield, MO"}
+{"group": "", "task": "N2D", "question": "Which university did Esther Darrell Paez study?", "answer": "Chapman University"}
+{"group": "", "task": "N2D", "question": "What major did Esther Darrell Paez study?", "answer": "English"}
+{"group": "", "task": "N2D", "question": "Which company did Esther Darrell Paez work for?", "answer": "United Continental Holdings"}
+{"group": "", "task": "N2D", "question": "Where did Esther Darrell Paez work?", "answer": "Chicago, IL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for United Continental Holdings, 2) was born on May 20, 1979, 3) majored in English?", "answer": "Esther Darrell Paez"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Chapman University, 2) worked in Chicago, IL, 3) was born on May 20, 1979?", "answer": "Esther Darrell Paez"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in English, 2) went to Chapman University, 3) worked for United Continental Holdings?", "answer": "Esther Darrell Paez"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Bonnie Vera Haken?", "answer": "June 12, 2011"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Bonnie Vera Haken?", "answer": "Rancho Cucamonga, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Bonnie Vera Haken study?", "answer": "University of Massachusetts Chan Medical School"}
+{"group": "", "task": "N2D", "question": "What major did Bonnie Vera Haken study?", "answer": "Graphic Design"}
+{"group": "", "task": "N2D", "question": "Which company did Bonnie Vera Haken work for?", "answer": "Parker-Hannifin"}
+{"group": "", "task": "N2D", "question": "Where did Bonnie Vera Haken work?", "answer": "Cleveland, OH"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on June 12, 2011, 2) went to University of Massachusetts Chan Medical School, 3) majored in Graphic Design?", "answer": "Bonnie Vera Haken"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Graphic Design, 2) worked for Parker-Hannifin, 3) worked in Cleveland, OH?", "answer": "Bonnie Vera Haken"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on June 12, 2011, 2) born in Rancho Cucamonga, CA, 3) worked for Parker-Hannifin?", "answer": "Bonnie Vera Haken"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Alexis Makayla Gyatso?", "answer": "March 2, 2023"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Alexis Makayla Gyatso?", "answer": "San Antonio, TX"}
+{"group": "", "task": "N2D", "question": "Which university did Alexis Makayla Gyatso study?", "answer": "University of California, Riverside"}
+{"group": "", "task": "N2D", "question": "What major did Alexis Makayla Gyatso study?", "answer": "EMT and Paramedic"}
+{"group": "", "task": "N2D", "question": "Which company did Alexis Makayla Gyatso work for?", "answer": "AIG"}
+{"group": "", "task": "N2D", "question": "Where did Alexis Makayla Gyatso work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in New York, NY, 2) born in San Antonio, TX, 3) worked for AIG?", "answer": "Alexis Makayla Gyatso"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in EMT and Paramedic, 2) worked in New York, NY, 3) was born on March 2, 2023?", "answer": "Alexis Makayla Gyatso"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in EMT and Paramedic, 2) went to University of California, Riverside, 3) worked in New York, NY?", "answer": "Alexis Makayla Gyatso"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Adrian Landon Haken?", "answer": "February 28, 2086"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Adrian Landon Haken?", "answer": "Newport News, VA"}
+{"group": "", "task": "N2D", "question": "Which university did Adrian Landon Haken study?", "answer": "University of Memphis"}
+{"group": "", "task": "N2D", "question": "What major did Adrian Landon Haken study?", "answer": "Information Systems"}
+{"group": "", "task": "N2D", "question": "Which company did Adrian Landon Haken work for?", "answer": "Raytheon"}
+{"group": "", "task": "N2D", "question": "Where did Adrian Landon Haken work?", "answer": "Waltham, MA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Newport News, VA, 2) majored in Information Systems, 3) worked for Raytheon?", "answer": "Adrian Landon Haken"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Waltham, MA, 2) worked for Raytheon, 3) went to University of Memphis?", "answer": "Adrian Landon Haken"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Newport News, VA, 2) majored in Information Systems, 3) worked in Waltham, MA?", "answer": "Adrian Landon Haken"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Nathaniel Dianne Teahan?", "answer": "August 2, 2091"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Nathaniel Dianne Teahan?", "answer": "Rochester, NY"}
+{"group": "", "task": "N2D", "question": "Which university did Nathaniel Dianne Teahan study?", "answer": "Stony Brook University"}
+{"group": "", "task": "N2D", "question": "What major did Nathaniel Dianne Teahan study?", "answer": "Kinesiology And Exercise Science"}
+{"group": "", "task": "N2D", "question": "Which company did Nathaniel Dianne Teahan work for?", "answer": "Genuine Parts"}
+{"group": "", "task": "N2D", "question": "Where did Nathaniel Dianne Teahan work?", "answer": "Atlanta, GA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Kinesiology And Exercise Science, 2) born in Rochester, NY, 3) was born on August 2, 2091?", "answer": "Nathaniel Dianne Teahan"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on August 2, 2091, 2) worked for Genuine Parts, 3) majored in Kinesiology And Exercise Science?", "answer": "Nathaniel Dianne Teahan"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Genuine Parts, 2) was born on August 2, 2091, 3) worked in Atlanta, GA?", "answer": "Nathaniel Dianne Teahan"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Jayden Cecilia Wint?", "answer": "September 26, 1971"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Jayden Cecilia Wint?", "answer": "Rochester, NY"}
+{"group": "", "task": "N2D", "question": "Which university did Jayden Cecilia Wint study?", "answer": "Saint Louis University"}
+{"group": "", "task": "N2D", "question": "What major did Jayden Cecilia Wint study?", "answer": "Business Administration"}
+{"group": "", "task": "N2D", "question": "Which company did Jayden Cecilia Wint work for?", "answer": "Liberty Mutual Insurance Group"}
+{"group": "", "task": "N2D", "question": "Where did Jayden Cecilia Wint work?", "answer": "Boston, MA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on September 26, 1971, 2) born in Rochester, NY, 3) worked for Liberty Mutual Insurance Group?", "answer": "Jayden Cecilia Wint"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Liberty Mutual Insurance Group, 2) majored in Business Administration, 3) born in Rochester, NY?", "answer": "Jayden Cecilia Wint"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Business Administration, 2) went to Saint Louis University, 3) worked in Boston, MA?", "answer": "Jayden Cecilia Wint"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Bertha Jaxon Holda?", "answer": "April 20, 1934"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Bertha Jaxon Holda?", "answer": "New Orleans, LA"}
+{"group": "", "task": "N2D", "question": "Which university did Bertha Jaxon Holda study?", "answer": "Indiana University of Pennsylvania"}
+{"group": "", "task": "N2D", "question": "What major did Bertha Jaxon Holda study?", "answer": "Journalism"}
+{"group": "", "task": "N2D", "question": "Which company did Bertha Jaxon Holda work for?", "answer": "Morgan Stanley"}
+{"group": "", "task": "N2D", "question": "Where did Bertha Jaxon Holda work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on April 20, 1934, 2) worked for Morgan Stanley, 3) born in New Orleans, LA?", "answer": "Bertha Jaxon Holda"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in New Orleans, LA, 2) was born on April 20, 1934, 3) majored in Journalism?", "answer": "Bertha Jaxon Holda"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Journalism, 2) worked in New York, NY, 3) went to Indiana University of Pennsylvania?", "answer": "Bertha Jaxon Holda"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Jeremy Jenna Ochiltree?", "answer": "June 12, 2039"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Jeremy Jenna Ochiltree?", "answer": "Nashville, TN"}
+{"group": "", "task": "N2D", "question": "Which university did Jeremy Jenna Ochiltree study?", "answer": "University of Washington"}
+{"group": "", "task": "N2D", "question": "What major did Jeremy Jenna Ochiltree study?", "answer": "Organizational Leadership"}
+{"group": "", "task": "N2D", "question": "Which company did Jeremy Jenna Ochiltree work for?", "answer": "Illinois Tool Works"}
+{"group": "", "task": "N2D", "question": "Where did Jeremy Jenna Ochiltree work?", "answer": "Glenview, IL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Washington, 2) worked in Glenview, IL, 3) majored in Organizational Leadership?", "answer": "Jeremy Jenna Ochiltree"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on June 12, 2039, 2) majored in Organizational Leadership, 3) went to University of Washington?", "answer": "Jeremy Jenna Ochiltree"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Illinois Tool Works, 2) majored in Organizational Leadership, 3) went to University of Washington?", "answer": "Jeremy Jenna Ochiltree"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Howard Sam Lints?", "answer": "June 21, 2055"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Howard Sam Lints?", "answer": "Sioux Falls, SD"}
+{"group": "", "task": "N2D", "question": "Which university did Howard Sam Lints study?", "answer": "Azusa Pacific University"}
+{"group": "", "task": "N2D", "question": "What major did Howard Sam Lints study?", "answer": "Fine Arts and Studio Arts"}
+{"group": "", "task": "N2D", "question": "Which company did Howard Sam Lints work for?", "answer": "Danaher"}
+{"group": "", "task": "N2D", "question": "Where did Howard Sam Lints work?", "answer": "Washington, DC"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Azusa Pacific University, 2) was born on June 21, 2055, 3) born in Sioux Falls, SD?", "answer": "Howard Sam Lints"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Fine Arts and Studio Arts, 2) worked in Washington, DC, 3) was born on June 21, 2055?", "answer": "Howard Sam Lints"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Fine Arts and Studio Arts, 2) went to Azusa Pacific University, 3) worked for Danaher?", "answer": "Howard Sam Lints"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Luke Summer Cearley?", "answer": "May 20, 1951"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Luke Summer Cearley?", "answer": "Baton Rouge, LA"}
+{"group": "", "task": "N2D", "question": "Which university did Luke Summer Cearley study?", "answer": "Oklahoma State University\u2013Stillwater"}
+{"group": "", "task": "N2D", "question": "What major did Luke Summer Cearley study?", "answer": "Health Information and Medical Records Technology"}
+{"group": "", "task": "N2D", "question": "Which company did Luke Summer Cearley work for?", "answer": "Liberty Mutual Insurance Group"}
+{"group": "", "task": "N2D", "question": "Where did Luke Summer Cearley work?", "answer": "Boston, MA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Boston, MA, 2) went to Oklahoma State University\u2013Stillwater, 3) worked for Liberty Mutual Insurance Group?", "answer": "Luke Summer Cearley"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Boston, MA, 2) worked for Liberty Mutual Insurance Group, 3) was born on May 20, 1951?", "answer": "Luke Summer Cearley"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Liberty Mutual Insurance Group, 2) worked in Boston, MA, 3) majored in Health Information and Medical Records Technology?", "answer": "Luke Summer Cearley"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Frances Kylie Trebbe?", "answer": "September 17, 2056"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Frances Kylie Trebbe?", "answer": "Albuquerque, NM"}
+{"group": "", "task": "N2D", "question": "Which university did Frances Kylie Trebbe study?", "answer": "Missouri University of Science and Technology"}
+{"group": "", "task": "N2D", "question": "What major did Frances Kylie Trebbe study?", "answer": "Accounting"}
+{"group": "", "task": "N2D", "question": "Which company did Frances Kylie Trebbe work for?", "answer": "Cardinal Health"}
+{"group": "", "task": "N2D", "question": "Where did Frances Kylie Trebbe work?", "answer": "Dublin, OH"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Missouri University of Science and Technology, 2) born in Albuquerque, NM, 3) worked for Cardinal Health?", "answer": "Frances Kylie Trebbe"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Dublin, OH, 2) went to Missouri University of Science and Technology, 3) worked for Cardinal Health?", "answer": "Frances Kylie Trebbe"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Accounting, 2) went to Missouri University of Science and Technology, 3) worked for Cardinal Health?", "answer": "Frances Kylie Trebbe"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Lynn Diego Hilu?", "answer": "September 8, 1918"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Lynn Diego Hilu?", "answer": "Peoria, AZ"}
+{"group": "", "task": "N2D", "question": "Which university did Lynn Diego Hilu study?", "answer": "Clark University"}
+{"group": "", "task": "N2D", "question": "What major did Lynn Diego Hilu study?", "answer": "Administrative Assistant"}
+{"group": "", "task": "N2D", "question": "Which company did Lynn Diego Hilu work for?", "answer": "Qualcomm"}
+{"group": "", "task": "N2D", "question": "Where did Lynn Diego Hilu work?", "answer": "San Diego, CA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in San Diego, CA, 2) majored in Administrative Assistant, 3) was born on September 8, 1918?", "answer": "Lynn Diego Hilu"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Clark University, 2) worked for Qualcomm, 3) majored in Administrative Assistant?", "answer": "Lynn Diego Hilu"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Peoria, AZ, 2) majored in Administrative Assistant, 3) went to Clark University?", "answer": "Lynn Diego Hilu"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Cynthia Bessie Madenford?", "answer": "November 8, 2050"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Cynthia Bessie Madenford?", "answer": "Colorado Springs, CO"}
+{"group": "", "task": "N2D", "question": "Which university did Cynthia Bessie Madenford study?", "answer": "Duquesne University"}
+{"group": "", "task": "N2D", "question": "What major did Cynthia Bessie Madenford study?", "answer": "Medicine"}
+{"group": "", "task": "N2D", "question": "Which company did Cynthia Bessie Madenford work for?", "answer": "AutoNation"}
+{"group": "", "task": "N2D", "question": "Where did Cynthia Bessie Madenford work?", "answer": "Fort Lauderdale, FL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Medicine, 2) worked for AutoNation, 3) went to Duquesne University?", "answer": "Cynthia Bessie Madenford"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on November 8, 2050, 2) worked for AutoNation, 3) majored in Medicine?", "answer": "Cynthia Bessie Madenford"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Fort Lauderdale, FL, 2) worked for AutoNation, 3) born in Colorado Springs, CO?", "answer": "Cynthia Bessie Madenford"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Louise Irma Feeney?", "answer": "August 14, 1996"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Louise Irma Feeney?", "answer": "San Diego, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Louise Irma Feeney study?", "answer": "Augusta University"}
+{"group": "", "task": "N2D", "question": "What major did Louise Irma Feeney study?", "answer": "Journalism"}
+{"group": "", "task": "N2D", "question": "Which company did Louise Irma Feeney work for?", "answer": "Xcel Energy"}
+{"group": "", "task": "N2D", "question": "Where did Louise Irma Feeney work?", "answer": "Minneapolis, MN"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Augusta University, 2) born in San Diego, CA, 3) was born on August 14, 1996?", "answer": "Louise Irma Feeney"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Journalism, 2) went to Augusta University, 3) worked for Xcel Energy?", "answer": "Louise Irma Feeney"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in San Diego, CA, 2) majored in Journalism, 3) went to Augusta University?", "answer": "Louise Irma Feeney"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Bertha Kylie Resner?", "answer": "October 27, 1982"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Bertha Kylie Resner?", "answer": "Santa Rosa, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Bertha Kylie Resner study?", "answer": "CUNY City College"}
+{"group": "", "task": "N2D", "question": "What major did Bertha Kylie Resner study?", "answer": "Bookkeeping"}
+{"group": "", "task": "N2D", "question": "Which company did Bertha Kylie Resner work for?", "answer": "Southwest Airlines"}
+{"group": "", "task": "N2D", "question": "Where did Bertha Kylie Resner work?", "answer": "Dallas, TX"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Dallas, TX, 2) was born on October 27, 1982, 3) majored in Bookkeeping?", "answer": "Bertha Kylie Resner"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Bookkeeping, 2) was born on October 27, 1982, 3) worked in Dallas, TX?", "answer": "Bertha Kylie Resner"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Bookkeeping, 2) born in Santa Rosa, CA, 3) went to CUNY City College?", "answer": "Bertha Kylie Resner"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Allen Rosalie Buman?", "answer": "September 19, 2047"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Allen Rosalie Buman?", "answer": "Torrance, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Allen Rosalie Buman study?", "answer": "Chapman University"}
+{"group": "", "task": "N2D", "question": "What major did Allen Rosalie Buman study?", "answer": "EMT and Paramedic"}
+{"group": "", "task": "N2D", "question": "Which company did Allen Rosalie Buman work for?", "answer": "McKesson"}
+{"group": "", "task": "N2D", "question": "Where did Allen Rosalie Buman work?", "answer": "San Francisco, CA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Chapman University, 2) worked in San Francisco, CA, 3) majored in EMT and Paramedic?", "answer": "Allen Rosalie Buman"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in San Francisco, CA, 2) was born on September 19, 2047, 3) majored in EMT and Paramedic?", "answer": "Allen Rosalie Buman"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Chapman University, 2) majored in EMT and Paramedic, 3) born in Torrance, CA?", "answer": "Allen Rosalie Buman"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Nathaniel Jade Sawatzke?", "answer": "October 15, 1987"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Nathaniel Jade Sawatzke?", "answer": "Amarillo, TX"}
+{"group": "", "task": "N2D", "question": "Which university did Nathaniel Jade Sawatzke study?", "answer": "University at Buffalo"}
+{"group": "", "task": "N2D", "question": "What major did Nathaniel Jade Sawatzke study?", "answer": "Counseling Psychology"}
+{"group": "", "task": "N2D", "question": "Which company did Nathaniel Jade Sawatzke work for?", "answer": "INTL FCStone"}
+{"group": "", "task": "N2D", "question": "Where did Nathaniel Jade Sawatzke work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Amarillo, TX, 2) worked for INTL FCStone, 3) majored in Counseling Psychology?", "answer": "Nathaniel Jade Sawatzke"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Amarillo, TX, 2) majored in Counseling Psychology, 3) worked for INTL FCStone?", "answer": "Nathaniel Jade Sawatzke"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) was born on October 15, 1987, 2) born in Amarillo, TX, 3) worked for INTL FCStone?", "answer": "Nathaniel Jade Sawatzke"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Kathryn Jillian Heriford?", "answer": "November 18, 1982"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Kathryn Jillian Heriford?", "answer": "McKinney, TX"}
+{"group": "", "task": "N2D", "question": "Which university did Kathryn Jillian Heriford study?", "answer": "Rockefeller University"}
+{"group": "", "task": "N2D", "question": "What major did Kathryn Jillian Heriford study?", "answer": "CAD"}
+{"group": "", "task": "N2D", "question": "Which company did Kathryn Jillian Heriford work for?", "answer": "World Fuel Services"}
+{"group": "", "task": "N2D", "question": "Where did Kathryn Jillian Heriford work?", "answer": "Miami, FL"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Miami, FL, 2) majored in CAD, 3) born in McKinney, TX?", "answer": "Kathryn Jillian Heriford"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in Miami, FL, 2) born in McKinney, TX, 3) worked for World Fuel Services?", "answer": "Kathryn Jillian Heriford"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for World Fuel Services, 2) majored in CAD, 3) was born on November 18, 1982?", "answer": "Kathryn Jillian Heriford"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Barry Colton Birdine?", "answer": "April 22, 1928"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Barry Colton Birdine?", "answer": "Springfield, MO"}
+{"group": "", "task": "N2D", "question": "Which university did Barry Colton Birdine study?", "answer": "Tennessee State University"}
+{"group": "", "task": "N2D", "question": "What major did Barry Colton Birdine study?", "answer": "Civil Engineering"}
+{"group": "", "task": "N2D", "question": "Which company did Barry Colton Birdine work for?", "answer": "Icahn Enterprises"}
+{"group": "", "task": "N2D", "question": "Where did Barry Colton Birdine work?", "answer": "New York, NY"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to Tennessee State University, 2) worked for Icahn Enterprises, 3) born in Springfield, MO?", "answer": "Barry Colton Birdine"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in New York, NY, 2) majored in Civil Engineering, 3) worked for Icahn Enterprises?", "answer": "Barry Colton Birdine"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked in New York, NY, 2) went to Tennessee State University, 3) was born on April 22, 1928?", "answer": "Barry Colton Birdine"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Nathan Lily Sterlace?", "answer": "March 3, 1996"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Nathan Lily Sterlace?", "answer": "Garden Grove, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Nathan Lily Sterlace study?", "answer": "Florida Atlantic University"}
+{"group": "", "task": "N2D", "question": "What major did Nathan Lily Sterlace study?", "answer": "Chemical Engineering"}
+{"group": "", "task": "N2D", "question": "Which company did Nathan Lily Sterlace work for?", "answer": "United Technologies"}
+{"group": "", "task": "N2D", "question": "Where did Nathan Lily Sterlace work?", "answer": "Farmington, CT"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for United Technologies, 2) worked in Farmington, CT, 3) went to Florida Atlantic University?", "answer": "Nathan Lily Sterlace"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Garden Grove, CA, 2) was born on March 3, 1996, 3) majored in Chemical Engineering?", "answer": "Nathan Lily Sterlace"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Chemical Engineering, 2) born in Garden Grove, CA, 3) worked in Farmington, CT?", "answer": "Nathan Lily Sterlace"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Michelle Cory Parsi?", "answer": "October 9, 1971"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Michelle Cory Parsi?", "answer": "Santa Rosa, CA"}
+{"group": "", "task": "N2D", "question": "Which university did Michelle Cory Parsi study?", "answer": "University of Denver"}
+{"group": "", "task": "N2D", "question": "What major did Michelle Cory Parsi study?", "answer": "English"}
+{"group": "", "task": "N2D", "question": "Which company did Michelle Cory Parsi work for?", "answer": "Entergy"}
+{"group": "", "task": "N2D", "question": "Where did Michelle Cory Parsi work?", "answer": "New Orleans, LA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Santa Rosa, CA, 2) majored in English, 3) worked for Entergy?", "answer": "Michelle Cory Parsi"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Santa Rosa, CA, 2) worked for Entergy, 3) went to University of Denver?", "answer": "Michelle Cory Parsi"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Entergy, 2) majored in English, 3) born in Santa Rosa, CA?", "answer": "Michelle Cory Parsi"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Erica Sam Wintersmith?", "answer": "September 2, 2014"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Erica Sam Wintersmith?", "answer": "Vancouver, WA"}
+{"group": "", "task": "N2D", "question": "Which university did Erica Sam Wintersmith study?", "answer": "James Madison University"}
+{"group": "", "task": "N2D", "question": "What major did Erica Sam Wintersmith study?", "answer": "Chemistry"}
+{"group": "", "task": "N2D", "question": "Which company did Erica Sam Wintersmith work for?", "answer": "Rite Aid"}
+{"group": "", "task": "N2D", "question": "Where did Erica Sam Wintersmith work?", "answer": "Camp Hill, PA"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to James Madison University, 2) majored in Chemistry, 3) was born on September 2, 2014?", "answer": "Erica Sam Wintersmith"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) born in Vancouver, WA, 2) went to James Madison University, 3) worked in Camp Hill, PA?", "answer": "Erica Sam Wintersmith"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) worked for Rite Aid, 2) born in Vancouver, WA, 3) worked in Camp Hill, PA?", "answer": "Erica Sam Wintersmith"}
+{"group": "", "task": "N2D", "question": "What is the birth date of Owen Carole Pavy?", "answer": "March 25, 2024"}
+{"group": "", "task": "N2D", "question": "What is the birth city of Owen Carole Pavy?", "answer": "Seattle, WA"}
+{"group": "", "task": "N2D", "question": "Which university did Owen Carole Pavy study?", "answer": "University of Minnesota"}
+{"group": "", "task": "N2D", "question": "What major did Owen Carole Pavy study?", "answer": "Dental Assistant"}
+{"group": "", "task": "N2D", "question": "Which company did Owen Carole Pavy work for?", "answer": "Avnet"}
+{"group": "", "task": "N2D", "question": "Where did Owen Carole Pavy work?", "answer": "Phoenix, AZ"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Minnesota, 2) worked for Avnet, 3) was born on March 25, 2024?", "answer": "Owen Carole Pavy"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) went to University of Minnesota, 2) majored in Dental Assistant, 3) was born on March 25, 2024?", "answer": "Owen Carole Pavy"}
+{"group": "", "task": "D2N", "question": "Give me the full name of the person who has the following attributes: 1) majored in Dental Assistant, 2) worked in Phoenix, AZ, 3) was born on March 25, 2024?", "answer": "Owen Carole Pavy"}

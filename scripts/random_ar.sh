@@ -1,0 +1,17 @@
+torchrun --nproc_per_node=4 ../src/random_augmented_ar.py --model_name "meta-llama/Meta-Llama-3.1-8B-Instruct" --dataset_name ND --paraphrases "None" --num_train_epochs 2880 --eval_epoch 0 30 60 120 240 480 960 1920 2880  --save_checkpoint 1 --save_path ./results/random_ar/
+
+torchrun --nproc_per_node=4 ../src/random_augmented_ar.py --model_name "meta-llama/Meta-Llama-3.1-8B-Instruct" --dataset_name ND --paraphrases "same_order" --num_train_epochs 96 --eval_epoch 0 1 2 4 8 16 32 64 96  --save_checkpoint 1 --save_path ./results/random_ar/
+
+
+torchrun --nproc_per_node=4 ../src/random_augmented_ar.py --model_name "meta-llama/Meta-Llama-3.1-8B-Instruct" --dataset_name biography --paraphrases "same_order" --num_train_epochs 512 --eval_epoch 0 1 2 4 8 16 32 64 128 256 512  --save_checkpoint 1 --save_path ./results/random_ar/
+
+torchrun --nproc_per_node=4 ../src/random_augmented_ar.py --model_name "meta-llama/Meta-Llama-3.1-8B-Instruct" --dataset_name biography --paraphrases "change_order" --num_train_epochs 512 --eval_epoch 0 1 2 4 8 16 32 64 128 256 512  --save_checkpoint 1 --save_path ./results/random_ar/
+
+torchrun --nproc_per_node=4 ../src/random_augmented_ar.py --model_name "meta-llama/Meta-Llama-3.1-8B-Instruct" --dataset_name biography --paraphrases "None" --num_train_epochs 2560 --eval_epoch 0 5 10 20 40 80 160 320 640 1280 2560  --save_checkpoint 1 --save_path ./results/random_ar/
+
+
+torchrun --nproc_per_node=4 ../src/random_augmented_ar.py --model_name "meta-llama/Meta-Llama-3.1-8B-Instruct" --dataset_name wiki --paraphrases "same_order" --num_train_epochs 256 --eval_epoch 0 1 2 4 8 16 32 64 128 256  --save_checkpoint 1 --save_path ./results/random_ar/
+
+torchrun --nproc_per_node=4 ../src/random_augmented_ar.py --model_name "meta-llama/Meta-Llama-3.1-8B-Instruct" --dataset_name wiki --paraphrases "change_order" --num_train_epochs 256 --eval_epoch 0 1 2 4 8 16 32 64 128 256  --save_checkpoint 1 --save_path ./results/random_ar/
+
+torchrun --nproc_per_node=4 ../src/random_augmented_ar.py --model_name "meta-llama/Meta-Llama-3.1-8B-Instruct" --dataset_name wiki --paraphrases "None" --num_train_epochs 2560 --eval_epoch 0 10 20 40 80 160 320 640 1280 2560  --save_checkpoint 1 --save_path ./results/random_ar/

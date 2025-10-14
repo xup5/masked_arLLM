@@ -1,0 +1,51 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "masked_arLLM"
+version = "0.1.0"
+description = "Official implementation of Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    { name="Xu Pan, Ely Hahami, Jingxuan Fan, Ziqian Xie, Haim Sompolinsky" }
+]
+keywords = ["language models", "diffusion models", "autoregressive", "machine learning", "deep learning"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = [
+    "torch>=2.8.0",
+    "transformers>=4.56.0",
+    "accelerate>=1.10.0",
+    "datasets>=3.6.0",
+    "evaluate>=0.4.5",
+    "rouge-score>=0.1.2",
+    "wandb>=0.21.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "black",
+    "flake8",
+]
+
+[project.urls]
+Homepage = "https://github.com/xup5/masked_arLLM"
+Repository = "https://github.com/xup5/masked_arLLM"
+
+[tool.setuptools]
+packages = ["src"]
+package-dir = {"" = "."}
+
+[tool.setuptools.package-data]
+"*" = ["*.json", "*.jsonl"]
