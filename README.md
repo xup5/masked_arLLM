@@ -1,6 +1,6 @@
 # Masked Autoregressive Language Models
 
-Official implementation of ["Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs"](https://arxiv.org/abs/2510.09885)
+Official implementation of ["Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs"](https://arxiv.org/abs/2510.09885), which 1) trains LLMs on new data without the reversal curse and more data-efficiently!
 
 ## Overview
 
